@@ -17,7 +17,7 @@ var myAwesomePlaylist = new models.Playlist("My Awesome Playlist");
 
 toplist.observe(models.EVENT.CHANGE, function() {    	
 	var i;
-	for (i=0;i<60;i++)
+	for (i=0;i<6;i++)
 	{	
 		add_li("bands", i + 1 + " :" + toplist.results[i]);		
 		myAwesomePlaylist.add(toplist.results[i]);
@@ -25,6 +25,8 @@ toplist.observe(models.EVENT.CHANGE, function() {
 });
 
 toplist.run();
+var songPlay = new models.Play();
+songPlay.play(toplist.results[0])
 }
 
 function add_li(list, text) {
