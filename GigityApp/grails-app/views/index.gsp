@@ -15,5 +15,7 @@
           <input type="submit" value="Search" />
         </form>
       </div>
+
+      <p id="nearme"><a href="nearby/index">Search for gigs near me</p>
     </body>
 </html>

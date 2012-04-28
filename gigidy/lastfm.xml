@@ -1,0 +1,2482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<events artist="Kasabian" festivalsonly="0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" page="1" perPage="50" totalPages="1" total="33">
+    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2029344</id>
+  <title>Rock am Ring 2012</title>
+  <artists>
+    <artist>Linkin Park</artist>
+    <artist>The Offspring</artist>
+    <artist>Metallica</artist>
+    <artist>Keane</artist>
+    <artist>Evanescence</artist>
+    <artist>Kasabian</artist>
+    <artist>Marilyn Manson</artist>
+    <artist>Tenacious D</artist>
+    <artist>Soundgarden</artist>
+    <artist>The Ting Tings</artist>
+    <artist>The Hives</artist>
+    <artist>Motörhead</artist>
+    <artist>Cypress Hill</artist>
+    <artist>Billy Talent</artist>
+    <artist>Crystal Castles</artist>
+    <artist>Killswitch Engage</artist>
+    <artist>Maxïmo Park</artist>
+    <artist>Guano Apes</artist>
+    <artist>Lamb of God</artist>
+    <artist>Trivium</artist>
+    <artist>Shinedown</artist>
+    <artist>The Subways</artist>
+    <artist>Dropkick Murphys</artist>
+    <artist>As I Lay Dying</artist>
+    <artist>Gossip</artist>
+    <artist>Machine Head</artist>
+    <artist>Anthrax</artist>
+    <artist>The Maccabees</artist>
+    <artist>Opeth</artist>
+    <artist>Skrillex</artist>
+    <artist>Tinie Tempah</artist>
+    <artist>Mastodon</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Enter Shikari</artist>
+    <artist>DevilDriver</artist>
+    <artist>Example</artist>
+    <artist>Die Toten Hosen</artist>
+    <artist>Refused</artist>
+    <artist>The Rifles</artist>
+    <artist>Deichkind</artist>
+    <artist>Gojira</artist>
+    <artist>Peter Doherty</artist>
+    <artist>Donots</artist>
+    <artist>AWOLNATION</artist>
+    <artist>Boyce Avenue</artist>
+    <artist>Beginner</artist>
+    <artist>MIA.</artist>
+    <artist>Cancer Bats</artist>
+    <artist>Lexy &amp; K. Paul</artist>
+    <artist>FM Belfast</artist>
+    <artist>Halestorm</artist>
+    <artist>Ghost</artist>
+    <artist>Azealia Banks</artist>
+    <artist>Steel Panther</artist>
+    <artist>A$AP Rocky</artist>
+    <artist>Graveyard</artist>
+    <artist>Hoffmaestro &amp; Chraa</artist>
+    <artist>Periphery</artist>
+    <artist>Tove Styrke</artist>
+    <artist>Dick Brave &amp; the Backbeats</artist>
+    <artist>Triggerfinger</artist>
+    <artist>While She Sleeps</artist>
+    <artist>The Koletzkis</artist>
+    <artist>Tribes</artist>
+    <artist>Rival Sons</artist>
+    <artist>Citizens!</artist>
+    <artist>Rise To Remain</artist>
+    <artist>Cro</artist>
+    <artist>Lower Than Atlantis</artist>
+    <artist>Caligola</artist>
+    <artist>Fiva</artist>
+    <headliner>Linkin Park</headliner>
+  </artists>
+    <venue>
+    <id>8780229</id>
+    <name>Nürburgring</name>
+    <location>
+      <city>Nürburg</city>
+      <country>Germany</country>
+      <street>Otto-Flimm-Straße</street>
+      <postalcode>53520</postalcode>
+      <geo:point>
+         <geo:lat>50.3333333</geo:lat>
+         <geo:long>6.95</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8780229+N%C3%BCrburgring</url>
+    <website>http://www.nuerburgring.de</website>
+    <phonenumber>+49 (0)2691 / 3020</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/600979.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/600979.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/600979.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/600979.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/600979/Nrburgring.jpg</image>
+  </venue>    <startDate>Fri, 01 Jun 2012 15:18:01</startDate>
+  <endDate>Sun, 03 Jun 2012 15:18:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75481050.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75481050.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75481050.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75481050.png</image>
+  <attendance>1267</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2029344</tag>    
+  <url>http://www.last.fm/festival/2029344+Rock+am+Ring+2012</url>
+  <website>http://www.rock-am-ring.com</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1960451</id>
+  <title>Rock Im Park 2012</title>
+  <artists>
+    <artist>Linkin Park</artist>
+    <artist>The Offspring</artist>
+    <artist>Metallica</artist>
+    <artist>Keane</artist>
+    <artist>Evanescence</artist>
+    <artist>Kasabian</artist>
+    <artist>Marilyn Manson</artist>
+    <artist>Tenacious D</artist>
+    <artist>Soundgarden</artist>
+    <artist>The Ting Tings</artist>
+    <artist>The Hives</artist>
+    <artist>Motörhead</artist>
+    <artist>Cypress Hill</artist>
+    <artist>Billy Talent</artist>
+    <artist>Crystal Castles</artist>
+    <artist>Killswitch Engage</artist>
+    <artist>Maxïmo Park</artist>
+    <artist>Guano Apes</artist>
+    <artist>Lamb of God</artist>
+    <artist>Trivium</artist>
+    <artist>Shinedown</artist>
+    <artist>The Subways</artist>
+    <artist>Dropkick Murphys</artist>
+    <artist>As I Lay Dying</artist>
+    <artist>Gossip</artist>
+    <artist>Machine Head</artist>
+    <artist>Anthrax</artist>
+    <artist>The Maccabees</artist>
+    <artist>Opeth</artist>
+    <artist>Skrillex</artist>
+    <artist>Tinie Tempah</artist>
+    <artist>Mastodon</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Enter Shikari</artist>
+    <artist>DevilDriver</artist>
+    <artist>Example</artist>
+    <artist>Die Toten Hosen</artist>
+    <artist>Refused</artist>
+    <artist>The Rifles</artist>
+    <artist>Deichkind</artist>
+    <artist>Gojira</artist>
+    <artist>Peter Doherty</artist>
+    <artist>Donots</artist>
+    <artist>AWOLNATION</artist>
+    <artist>Boyce Avenue</artist>
+    <artist>Beginner</artist>
+    <artist>MIA.</artist>
+    <artist>Cancer Bats</artist>
+    <artist>Lexy &amp; K. Paul</artist>
+    <artist>FM Belfast</artist>
+    <artist>Halestorm</artist>
+    <artist>Ghost</artist>
+    <artist>Azealia Banks</artist>
+    <artist>Steel Panther</artist>
+    <artist>A$AP Rocky</artist>
+    <artist>Graveyard</artist>
+    <artist>Periphery</artist>
+    <artist>Tove Styrke</artist>
+    <artist>Hoffmaestro</artist>
+    <artist>ASAP Rocky</artist>
+    <artist>Dick Brave &amp; the Backbeats</artist>
+    <artist>Triggerfinger</artist>
+    <artist>While She Sleeps</artist>
+    <artist>The Koletzkis</artist>
+    <artist>Tribes</artist>
+    <artist>Rival Sons</artist>
+    <artist>Citizens!</artist>
+    <artist>Rise To Remain</artist>
+    <artist>Cro</artist>
+    <artist>Lower Than Atlantis</artist>
+    <artist>Caligola</artist>
+    <artist>Fiva &amp; Das Phantom Orchester</artist>
+    <headliner>Linkin Park</headliner>
+  </artists>
+    <venue>
+    <id>8794963</id>
+    <name>Zeppelinfeld</name>
+    <location>
+      <city>Nürnberg</city>
+      <country>Germany</country>
+      <street>Zeppelinstraße</street>
+      <postalcode>90480</postalcode>
+      <geo:point>
+         <geo:lat>49.429598</geo:lat>
+         <geo:long>11.119742</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8794963+Zeppelinfeld</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Fri, 01 Jun 2012 16:07:01</startDate>
+  <endDate>Sun, 03 Jun 2012 16:07:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75417800.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75417800.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75417800.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75417800.png</image>
+  <attendance>993</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1960451</tag>    
+  <url>http://www.last.fm/festival/1960451+Rock+Im+Park+2012</url>
+  <website>http://www.rock-im-park.com/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3114848</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <artist>Belakiss</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>9178825</id>
+    <name>C-Halle</name>
+    <location>
+      <city>Berlin</city>
+      <country>Germany</country>
+      <street>Columbiadamm 13-21</street>
+      <postalcode>10965</postalcode>
+      <geo:point>
+         <geo:lat>52.484407</geo:lat>
+         <geo:long>13.391916</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9178825+C-Halle</url>
+    <website>http://www.c-halle.com</website>
+    <phonenumber>+49(30)/69812814</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/60533195.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/60533195.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/60533195.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/60533195.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/60533195/CHalle+Columbiahalle.jpg</image>
+  </venue>    <startDate>Sat, 02 Jun 2012 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Doors: 19:00 / Show: 20:00<br />Rescheduled from March 4th to June 2nd 2012 due a Laryngitis of the Singer</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>260</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3114848</tag>    
+  <url>http://www.last.fm/event/3114848+Kasabian+at+C-Halle+on+2+June+2012</url>
+  <website>http://www.koka36.de/Kasabian_ticket_42682.html</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>alternative</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3272204</id>
+  <title>Kasabian - Live 2012</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8794963</id>
+    <name>Zeppelinfeld</name>
+    <location>
+      <city>Nürnberg</city>
+      <country>Germany</country>
+      <street>Zeppelinstraße</street>
+      <postalcode>90480</postalcode>
+      <geo:point>
+         <geo:lat>49.429598</geo:lat>
+         <geo:long>11.119742</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8794963+Zeppelinfeld</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Sun, 03 Jun 2012 20:47:01</startDate>
+  <description><![CDATA[<div class="bbcode">Kasabian – von den Sixties zum Rave-Sound<br />Mit viertem Album „Velociraptor!“ im Gepäck auf Tour<br />Weitere Deutschland-Shows im Juni in Hamburg und Frankfurt<br />Berliner Konzert vom März auf 2. Juni verlegt</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3272204</tag>    
+  <url>http://www.last.fm/event/3272204+Kasabian+-+Live+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3271648</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8778595</id>
+    <name>Docks</name>
+    <location>
+      <city>Hamburg</city>
+      <country>Germany</country>
+      <street>Spielbudenplatz 19</street>
+      <postalcode>20359</postalcode>
+      <geo:point>
+         <geo:lat>53.549368</geo:lat>
+         <geo:long>9.964591</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778595+Docks</url>
+    <website>http://www.docks.de</website>
+    <phonenumber>+49 40 3178830</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/24634985.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/24634985.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/24634985.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/24634985.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/24634985/Docks+1.jpg</image>
+  </venue>    <startDate>Tue, 05 Jun 2012 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>7</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3271648</tag>    
+  <url>http://www.last.fm/event/3271648+Kasabian+at+Docks+on+5+June+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3263168</id>
+  <title>Caribana Festival 2012</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <artist>Lou Reed</artist>
+    <artist>Dropkick Murphys</artist>
+    <artist>Gossip</artist>
+    <artist>The Specials</artist>
+    <artist>Everlast</artist>
+    <artist>Stephen Marley</artist>
+    <artist>Marina and the Diamonds</artist>
+    <artist>2 Many DJ's</artist>
+    <artist>Revolver</artist>
+    <artist>Charlie Winston</artist>
+    <artist>Keziah Jones</artist>
+    <artist>Pony Pony Run Run</artist>
+    <artist>Foy Vance</artist>
+    <artist>Grand Corps Malade</artist>
+    <artist>Lucy Rose</artist>
+    <artist>Jennie Abrahamson</artist>
+    <artist>Pegasus</artist>
+    <artist>The Minutes</artist>
+    <artist>Vintage Trouble</artist>
+    <artist>Lail Arad</artist>
+    <artist>Haight Ashbury</artist>
+    <artist>Lou Lesage</artist>
+    <artist>The Rambling Wheels</artist>
+    <artist>The Cyborgs</artist>
+    <artist>Raphelson</artist>
+    <artist>Elkee</artist>
+    <artist>Gorillaz Sound System</artist>
+    <artist>Kyasma</artist>
+    <artist>Motherockers</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>9004151</id>
+    <name>Crans-près-Céligny</name>
+    <location>
+      <city>Crans-près-Céligny</city>
+      <country>Switzerland</country>
+      <street></street>
+      <postalcode>1299</postalcode>
+      <geo:point>
+         <geo:lat>46.3833333</geo:lat>
+         <geo:long>6.25</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9004151+Crans-pr%C3%A8s-C%C3%A9ligny</url>
+    <website>http://www.crans-pres-celigny.ch</website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Wed, 06 Jun 2012 16:39:01</startDate>
+  <endDate>Sun, 10 Jun 2012 16:39:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>3</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3263168</tag>    
+  <url>http://www.last.fm/festival/3263168+Caribana+Festival+2012</url>
+  <website>http://www.caribana-festival.ch</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3271651</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>10225851</id>
+    <name>Gibson</name>
+    <location>
+      <city>Frankfurt am Main</city>
+      <country>Germany</country>
+      <street>Zeil 85</street>
+      <postalcode>60313</postalcode>
+      <geo:point>
+         <geo:lat></geo:lat>
+         <geo:long></geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/10225851+Gibson</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Wed, 06 Jun 2012 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>4</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3271651</tag>    
+  <url>http://www.last.fm/event/3271651+Kasabian+at+Gibson+on+6+June+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2053487</id>
+  <title>Nova Rock 2012</title>
+  <artists>
+    <artist>Linkin Park</artist>
+    <artist>The Offspring</artist>
+    <artist>Metallica</artist>
+    <artist>Evanescence</artist>
+    <artist>Kasabian</artist>
+    <artist>Limp Bizkit</artist>
+    <artist>Marilyn Manson</artist>
+    <artist>Rise Against</artist>
+    <artist>Cypress Hill</artist>
+    <artist>Nightwish</artist>
+    <artist>Billy Talent</artist>
+    <artist>Slayer</artist>
+    <artist>Killswitch Engage</artist>
+    <artist>Puddle Of Mudd</artist>
+    <artist>Within Temptation</artist>
+    <artist>Lamb of God</artist>
+    <artist>Trivium</artist>
+    <artist>Shinedown</artist>
+    <artist>As I Lay Dying</artist>
+    <artist>Machine Head</artist>
+    <artist>Opeth</artist>
+    <artist>Mastodon</artist>
+    <artist>August Burns Red</artist>
+    <artist>DevilDriver</artist>
+    <artist>Dimmu Borgir</artist>
+    <artist>Everlast</artist>
+    <artist>Hatebreed</artist>
+    <artist>Lagwagon</artist>
+    <artist>Die Toten Hosen</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>Oomph!</artist>
+    <artist>Refused</artist>
+    <artist>Mad Caddies</artist>
+    <artist>Turbonegro</artist>
+    <artist>Gojira</artist>
+    <artist>AWOLNATION</artist>
+    <artist>The Baseballs</artist>
+    <artist>Visions of Atlantis</artist>
+    <artist>Biohazard</artist>
+    <artist>Eisbrecher</artist>
+    <artist>Schandmaul</artist>
+    <artist>We Butter The Bread With Butter</artist>
+    <artist>Hardcore Superstar</artist>
+    <artist>Cancer Bats</artist>
+    <artist>The Answer</artist>
+    <artist>The Sorrow</artist>
+    <artist>Steel Panther</artist>
+    <artist>Corey Taylor</artist>
+    <artist>Devin Townsend Project</artist>
+    <artist>Pulled Apart By Horses</artist>
+    <artist>Gun</artist>
+    <artist>Hoffmaestro</artist>
+    <artist>Triggerfinger</artist>
+    <artist>While She Sleeps</artist>
+    <artist>Royal Republic</artist>
+    <artist>Joey Cape</artist>
+    <artist>T</artist>
+    <artist>3 Feet Smaller</artist>
+    <artist>Livingston</artist>
+    <artist>Russkaja</artist>
+    <artist>Atlas Losing Grip</artist>
+    <artist>Mambo Kurt</artist>
+    <artist>The Computers</artist>
+    <artist>The Boss Hoss</artist>
+    <artist>All Mankind</artist>
+    <artist>DIE VAMUMMTN</artist>
+    <artist>Dear Superstar</artist>
+    <artist>Spout</artist>
+    <artist>Centao</artist>
+    <artist>Kill the Lycan</artist>
+    <artist>Marrok</artist>
+    <artist>Kobra and The Lotus</artist>
+    <artist>Roterfeld</artist>
+    <artist>Cannonball Ride</artist>
+    <artist>Lightworker</artist>
+    <artist>Gudalajara</artist>
+    <artist>Stereo Face</artist>
+    <headliner>Linkin Park</headliner>
+  </artists>
+    <venue>
+    <id>8787897</id>
+    <name>Pannonia Fields II</name>
+    <location>
+      <city>Nickelsdorf</city>
+      <country>Austria</country>
+      <street></street>
+      <postalcode>2425</postalcode>
+      <geo:point>
+         <geo:lat>47.939995</geo:lat>
+         <geo:long>17.068561</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8787897+Pannonia+Fields+II</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Fri, 08 Jun 2012 09:04:01</startDate>
+  <endDate>Sun, 10 Jun 2012 09:04:01</endDate>
+  <description><![CDATA[<div class="bbcode">NOVA ROCK '12 von 08. - 10. Juni 2012 <br />Frühbuchertickets ab jetzt: <br />Pass € 109,- zzgl. Gebühren <br />VIP Pass € 179,- zzgl. Gebühren <br />Pass + Caravan € 164,- zzgl. Gebühren <br />VIP + Caravan € 234,- zzgl. Gebühren<br /><br />ABSCHALTEN JETZT! stage<br />THE SORROW * HOFFMAESTRO * PULLED APART BY HORSES * GUADALAJARA * KOBRA &amp; THE LOTUS * HARDCORE SUPERSTAR * MAMBO KURT * DIE VAMMUMTN * ROTERFELD * ALL MANKIND * DEAR SUPERSTAR * STEREO FACE * LIGHTWORKER*T * VISIONS OF ATLANTIS... more to come...<br /><br />RED BULL BRANDWAGEN STAGE:<br />June 8th: Cannonball Ride // Kill The Lycan // Acoustic Special: Joey Cape, Signing Session: Killswitch Engage<br />June 9 th: Atlas Losing Grip<br />June 10th: Centao // Marrok</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75608286.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75608286.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75608286.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75608286.jpg</image>
+  <attendance>526</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2053487</tag>    
+  <url>http://www.last.fm/festival/2053487+Nova+Rock+2012</url>
+  <website>http://www.novarock.at</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3115025</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8787565</id>
+    <name>Den Atelier</name>
+    <location>
+      <city>Luxembourg</city>
+      <country>Luxembourg</country>
+      <street>54 rue de Hollerich</street>
+      <postalcode>L1013</postalcode>
+      <geo:point>
+         <geo:lat>49.598622</geo:lat>
+         <geo:long>6.126355</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8787565+Den+Atelier</url>
+    <website>http://www.atelier.lu</website>
+    <phonenumber>+352-4954851</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/412381.gif</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/412381.gif</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/412381.gif</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/412381.gif</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/412381/Den+Atelier.gif</image>
+  </venue>    <startDate>Sun, 10 Jun 2012 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">The guys from Leicester are back in the ‘bourg! One of the coolest acts around will be right on your very own doorstep! With their latest album, Velociraptor!, the band has firmly entered the lift to rock ‘n’ roll’s penthouse suite… Kasabian are a killer live band and with Club Foot, Fire or Vlad The Impaler, they have massive stompers up their sleeves. By now, the only band capable of beating Kasabian is… Kasabian! You can't help but jump about going mental at any of their gigs... Expect a high energy rock/electro spectacular!<br /><br />New Date: June 10th<br /><br /><a href="http://www.kasabian.co.uk" rel="nofollow">http://www.kasabian.co.uk</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>31</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3115025</tag>    
+  <url>http://www.last.fm/event/3115025+Kasabian+at+Den+Atelier+on+10+June+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3123296</id>
+  <title>Hultsfredsfestivalen</title>
+  <artists>
+    <artist>The Cure</artist>
+    <artist>The Kooks</artist>
+    <artist>Kasabian</artist>
+    <artist>The Cardigans</artist>
+    <artist>Garbage</artist>
+    <artist>Justice</artist>
+    <artist>M83</artist>
+    <artist>The Stone Roses</artist>
+    <artist>The xx</artist>
+    <artist>Bat for Lashes</artist>
+    <artist>Mumford &amp; Sons</artist>
+    <artist>Noah and the Whale</artist>
+    <artist>Marina &amp; the Diamonds</artist>
+    <artist>Bombay Bicycle Club</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Blood Red Shoes</artist>
+    <artist>James Blake</artist>
+    <artist>Fanfarlo</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>The Vaccines</artist>
+    <artist>Fink</artist>
+    <artist>Anna Ternheim</artist>
+    <artist>Big K.R.I.T.</artist>
+    <artist>Slash</artist>
+    <artist>Frank Turner</artist>
+    <artist>Feed Me</artist>
+    <artist>Bear In Heaven</artist>
+    <artist>Miles Kane</artist>
+    <artist>Familjen</artist>
+    <artist>The Bronx</artist>
+    <artist>Joker</artist>
+    <artist>Penguin Prison</artist>
+    <artist>Noel Gallagher's High Flying Birds</artist>
+    <artist>Kode9</artist>
+    <artist>Future Islands</artist>
+    <artist>Ikonika</artist>
+    <artist>Errors</artist>
+    <artist>Porcelain Raft</artist>
+    <artist>Jamie xx</artist>
+    <artist>Katzenjammer</artist>
+    <artist>Moullinex</artist>
+    <artist>Den Svenska Björnstammen</artist>
+    <artist>Nationalteatern</artist>
+    <artist>Charli XCX</artist>
+    <artist>Cooly G</artist>
+    <artist>Sleep Party People</artist>
+    <artist>Cosmo Jarvis</artist>
+    <artist>French Films</artist>
+    <artist>S.C.U.M</artist>
+    <artist>Spector</artist>
+    <artist>Big Deal</artist>
+    <artist>Breton</artist>
+    <artist>Mikal Cronin</artist>
+    <artist>Azure Blue</artist>
+    <artist>THEESatisfaction</artist>
+    <artist>AlunaGeorge</artist>
+    <artist>Simian Ghost</artist>
+    <artist>Ewert and the Two Dragons</artist>
+    <artist>Fare Soldi</artist>
+    <artist>Jacques Renault</artist>
+    <artist>Morgan Zarate</artist>
+    <artist>Stay+</artist>
+    <artist>Näääk</artist>
+    <artist>Far &amp; Son</artist>
+    <artist>Willy Moon</artist>
+    <artist>Vintage Trouble</artist>
+    <artist>Greymatter</artist>
+    <artist>Nimo</artist>
+    <artist>Au Palais</artist>
+    <artist>Qulinez</artist>
+    <artist>Bombus</artist>
+    <artist>Rising</artist>
+    <artist>medlar</artist>
+    <artist>Scratcha</artist>
+    <artist>Studio Barnhus</artist>
+    <artist>Näääk &amp; Nimo</artist>
+    <artist>Gorillaz Sound System</artist>
+    <artist>Sandra Mosh</artist>
+    <headliner>The Cure</headliner>
+  </artists>
+    <venue>
+    <id>8964983</id>
+    <name>Hultsfreds Hembygdspark</name>
+    <location>
+      <city>Hultsfred</city>
+      <country>Sweden</country>
+      <street>Folkparksvägen</street>
+      <postalcode>577 36</postalcode>
+      <geo:point>
+         <geo:lat>57.496459</geo:lat>
+         <geo:long>15.863033</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8964983+Hultsfreds+Hembygdspark</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/13894073.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/13894073.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/13894073.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/13894073.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/13894073/Hultsfreds+Hembygdspark+Loftboden.jpg</image>
+  </venue>    <startDate>Thu, 14 Jun 2012 10:24:01</startDate>
+  <endDate>Sat, 16 Jun 2012 10:24:01</endDate>
+  <description><![CDATA[<div class="bbcode">När FKP Scorpio 2011 inledde sin långsiktiga satsning på den klassiska festivalen i Hultsfred var det en händelse som följdes med stort intresse långt utanför Sveriges gränser. <br /><br />Med en av de absolut tyngsta europeiska aktörerna på livemusiksidan som arrangör, har festivalen tagit ett stort kliv upp när det gäller att erbjuda sin publik exklusiva spelningar, 2011 års line up väckte uppmärksamhet för sin fingertoppskänsla att blanda en up and coming skara artister med etablerade större namn.<br /><br />Arrangören satsar mycket på att erbjuda besökarna bekvämlighet, så finns t.ex. flera valmöjligheter gällande boendeformer, mat och dryck och service i stort.<br /><br />Programmet för festivalen presenteras och uppdateras via hemsida, Facebook och twitter. <br /><br />2012 flyttar festivalen tillbaka till den klassiska helgen i mitten av juni, 14-16 är det som gäller, platsen är dock densamma, natursköna Folkets Park invid sjön Hulingen.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/76952714.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/76952714.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/76952714.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/76952714.jpg</image>
+  <attendance>508</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3123296</tag>    
+  <url>http://www.last.fm/festival/3123296+Hultsfredsfestivalen</url>
+  <website>http://hultsfredsfestivalen.se/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2076873</id>
+  <title>NorthSide Festival 2012</title>
+  <artists>
+    <artist>Snow Patrol</artist>
+    <artist>The Kooks</artist>
+    <artist>Kasabian</artist>
+    <artist>Garbage</artist>
+    <artist>Justice</artist>
+    <artist>The Hives</artist>
+    <artist>The Stone Roses</artist>
+    <artist>The xx</artist>
+    <artist>Bat for Lashes</artist>
+    <artist>Mumford &amp; Sons</artist>
+    <artist>Noah and the Whale</artist>
+    <artist>Marina &amp; the Diamonds</artist>
+    <artist>Bombay Bicycle Club</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>Little Dragon</artist>
+    <artist>James Blake</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>The Asteroids Galaxy Tour</artist>
+    <artist>Oh Land</artist>
+    <artist>Miles Kane</artist>
+    <artist>Kashmir</artist>
+    <artist>Noel Gallagher's High Flying Birds</artist>
+    <artist>Emeli Sandé</artist>
+    <artist>Dúné</artist>
+    <artist>Choir of Young Believers</artist>
+    <artist>When Saints Go Machine</artist>
+    <artist>Turboweekend</artist>
+    <artist>Malk De Koijn</artist>
+    <artist>Lukas Graham</artist>
+    <artist>Freja Loeb</artist>
+    <headliner>Snow Patrol</headliner>
+  </artists>
+    <venue>
+    <id>10231436</id>
+    <name>Ådalen</name>
+    <location>
+      <city>Åbyhøj, Århus</city>
+      <country>Denmark</country>
+      <street>Søren Frichs Vej &amp; Huginsvej</street>
+      <postalcode>8230</postalcode>
+      <geo:point>
+         <geo:lat>56.148925</geo:lat>
+         <geo:long>10.172188</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/10231436+%C3%85dalen</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Fri, 15 Jun 2012 11:28:01</startDate>
+  <endDate>Sun, 17 Jun 2012 11:28:01</endDate>
+  <description><![CDATA[<div class="bbcode">3rd year of the festival.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75867270.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75867270.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75867270.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75867270.jpg</image>
+  <attendance>208</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2076873</tag>    
+  <url>http://www.last.fm/festival/2076873+NorthSide+Festival+2012</url>
+  <website>http://www.northside.dk</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3215798</id>
+  <title>Ejekt Festival 2012</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <artist>James</artist>
+    <artist>Miles Kane</artist>
+    <artist>Katzenjammer</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8914489</id>
+    <name>TBA</name>
+    <location>
+      <city>Athens</city>
+      <country>Greece</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>37.97889</geo:lat>
+         <geo:long>23.72971</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8914489+TBA</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/5930898.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/5930898.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/5930898.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/5930898.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/5930898/TBA+InvalidVenue.jpg</image>
+  </venue>    <startDate>Wed, 27 Jun 2012 14:47:01</startDate>
+  <description><![CDATA[<div class="bbcode">To EJEKT Festival επιστρέφει για 8η συνεχή χρονιά με ένα από τα κορυφαία line-ups που έχουν παρουσιαστεί ποτέ στην Ελλάδα. Πιστό στην συνταγή του να παρουσιάζει τα μεγαλύτερα ονόματα από την ροκ και dance μουσική στην ίδια σκηνή, το EJEKT 2012 και φέτος θα είναι το σημείο συνάντησης όλων των μουσικόφιλών της χώρας.<br />. <br />Tα δύο πρώτα ονόματα του φετινού line-up είναι οι Kasabian και οι Katzenjammer.<br />Οι Kasabian, το μεγαλύτερο rock συγκρότημα που έβγαλε η Μεγάλη Βρετανία την τελευταία δεκαπενταετία και ένα από τα μεγαλύτερα απωθημένα του ελληνικού κοινού, επιτέλους θα εμφανιστούν για πρώτη φορά στην Ελλάδα!<br />. <br />Οι δίσκοι τους έχουν γίνει πολυπλατινένιοι, τα singles τους παίζονται ασταμάτητα στο ραδιόφωνο, οι εμφανίσεις τους έχουν κερδίσει επάξια τον τίτλο του &quot;κορυφαίου live act&quot; και τα πλέον έγκριτα μουσικά περιοδικά (Mojo, NME, Q, κλπ) τους δίνουν τα σημαντικότερα βραβεία.<br />Ο λόγος: Days Are Forgotten, Reason Is Treason, L.S.F. (Lost Souls Forever), Shoot The Runner, Empire, Cutt Off, Fire, Goodbye Kiss, Velocipator, Switchblade Smiles και αρκετά ακόμα τραγούδια τους έχουν στιγματίσει τα 00ς. <br />.<br />Οι Kasabian είναι από τα ελάχιστα συγκροτήματα που έχουν καταφέρει να καθιερώσουν τον δικό τους, διαφορετικό ήχο, κάνοντας την ροκ μουσική επιτυχία σε μια εποχή που σχεδόν τίποτα δεν είναι υπερ της.<br />. <br /><a href="http://www.kasabian.co.uk/gb/home/" rel="nofollow">http://www.kasabian.co.uk/gb/home/</a><br />. <br />Οι Katzenjammer είναι Νορβηγίδες, τραγουδούν στα αγγλικά και παίζουν σαν Βαλκάνιες! Η μουσική του Goran Bregovic και του Django Reinhardt είναι το πρότυπό τους, αλλά μπλέκουν μέσα την ποπ, την ροκ και πολλή τρέλλα! Με τις κιθάρες, τα ακορντεόν, τα ουκελέλε και όλα τα παράξενα μουσικά όργανα που χρησιμοποιούν, στήνουν ένα μοναδικό πάρτυ επί σκηνής, τόσο αγαπητό στο κοινό ώστε να έχουν καταφέρει να περιοδεύουν σε ολόκληρη την Ευρώπη. Η εμφάνισή τους στο EJEKT 2012 είναι η πρώτη τους στην Ελλάδα και σίγουρα θα ακολουθήσουν πολλές.<br />. <br /><a href="http://www.katzenjammer.no/" rel="nofollow">http://www.katzenjammer.no/</a><br />. <br />Το πλήρες line-up του EJEKT Festival 2012 θα ανακοινωθεί σύντομα.<br />. <br /><a href="http://www.ejekt.gr" rel="nofollow">www.ejekt.gr</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/74948922.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/74948922.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/74948922.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/74948922.jpg</image>
+  <attendance>92</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3215798</tag>    
+  <url>http://www.last.fm/festival/3215798+Ejekt+Festival+2012</url>
+  <website>http://bit.ly/Avp51l</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>alternative</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1988352</id>
+  <title>Rock Werchter 2012</title>
+  <artists>
+    <artist>Red Hot Chili Peppers</artist>
+    <artist>Snow Patrol</artist>
+    <artist>blink-182</artist>
+    <artist>The Cure</artist>
+    <artist>Incubus</artist>
+    <artist>Pearl Jam</artist>
+    <artist>The Kooks</artist>
+    <artist>Kasabian</artist>
+    <artist>The All-American Rejects</artist>
+    <artist>Rise Against</artist>
+    <artist>Wiz Khalifa</artist>
+    <artist>Editors</artist>
+    <artist>Regina Spektor</artist>
+    <artist>Florence + the Machine</artist>
+    <artist>Garbage</artist>
+    <artist>Justice</artist>
+    <artist>Wolfmother</artist>
+    <artist>Cypress Hill</artist>
+    <artist>James Morrison</artist>
+    <artist>Metric</artist>
+    <artist>M83</artist>
+    <artist>Beirut</artist>
+    <artist>deadmau5</artist>
+    <artist>The xx</artist>
+    <artist>Within Temptation</artist>
+    <artist>Bat for Lashes</artist>
+    <artist>Mumford &amp; Sons</artist>
+    <artist>Elbow</artist>
+    <artist>Dropkick Murphys</artist>
+    <artist>Simple Minds</artist>
+    <artist>My Morning Jacket</artist>
+    <artist>Gossip</artist>
+    <artist>Amon Tobin</artist>
+    <artist>The Temper Trap</artist>
+    <artist>The Maccabees</artist>
+    <artist>M. Ward</artist>
+    <artist>Noah and the Whale</artist>
+    <artist>Skrillex</artist>
+    <artist>Bombay Bicycle Club</artist>
+    <artist>Mastodon</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Mac Miller</artist>
+    <artist>Lana Del Rey</artist>
+    <artist>DJ Fresh</artist>
+    <artist>The Vaccines</artist>
+    <artist>Milow</artist>
+    <artist>Paul Kalkbrenner</artist>
+    <artist>Skream</artist>
+    <artist>dEUS</artist>
+    <artist>Nneka</artist>
+    <artist>Katy B</artist>
+    <artist>Ed Sheeran</artist>
+    <artist>Jack White</artist>
+    <artist>Miles Kane</artist>
+    <artist>James Vincent McMorrow</artist>
+    <artist>X</artist>
+    <artist>Steve Aoki</artist>
+    <artist>Selah Sue</artist>
+    <artist>Birdy Nam Nam</artist>
+    <artist>Netsky</artist>
+    <artist>Die Antwoord</artist>
+    <artist>Noel Gallagher's High Flying Birds</artist>
+    <artist>Ben Howard</artist>
+    <artist>Perfume Genius</artist>
+    <artist>Kreayshawn</artist>
+    <artist>Anna Calvi</artist>
+    <artist>Agnes Obel</artist>
+    <artist>Other Lives</artist>
+    <artist>Kitty, Daisy &amp; Lewis</artist>
+    <artist>Michael Kiwanuka</artist>
+    <artist>Alabama Shakes</artist>
+    <artist>Azari &amp; III</artist>
+    <artist>Katzenjammer</artist>
+    <artist>Isbells</artist>
+    <artist>Eastern Conference Champions</artist>
+    <artist>Knife Party</artist>
+    <artist>The Black Box Revelation</artist>
+    <artist>'t Hof van Commerce</artist>
+    <artist>The Hickey Underworld</artist>
+    <artist>School Is Cool</artist>
+    <headliner>Red Hot Chili Peppers</headliner>
+  </artists>
+    <venue>
+    <id>8779175</id>
+    <name>Werchter</name>
+    <location>
+      <city>Werchter</city>
+      <country>Belgium</country>
+      <street>Haachtsesteenweg</street>
+      <postalcode>3118</postalcode>
+      <geo:point>
+         <geo:lat>50.968056</geo:lat>
+         <geo:long>4.684167</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779175+Werchter</url>
+    <website>http://www.rockwerchter.be</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/51957407.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/51957407.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/51957407.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/51957407.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/51957407/Werchter+hqdefault.jpg</image>
+  </venue>    <startDate>Thu, 28 Jun 2012 14:59:01</startDate>
+  <endDate>Sun, 01 Jul 2012 14:59:01</endDate>
+  <description><![CDATA[<div class="bbcode">Tickets are now on sale, buy them at <a href="http://www.proximusgoformusic.be/live/en/fest/rockwerchter" rel="nofollow">http://www.proximusgoformusic.be/live/en/fest/rockwerchter</a> .<br /><br />Day Ticket: €79.00 [Thursday available | Friday, Saturday, Sunday SOLD OUT]<br />4-day pass (combi ticket): €195.00 [SOLD OUT]<br />Campsite Ticket: €18.00</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/71403050.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/71403050.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/71403050.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/71403050.jpg</image>
+  <attendance>1594</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1988352</tag>    
+  <url>http://www.last.fm/festival/1988352+Rock+Werchter+2012</url>
+  <website>http://www.rockwerchter.be/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3132371</id>
+  <title>Main Square Festival</title>
+  <artists>
+    <artist>blink-182</artist>
+    <artist>Incubus</artist>
+    <artist>Pearl Jam</artist>
+    <artist>The Kooks</artist>
+    <artist>Kasabian</artist>
+    <artist>The All-American Rejects</artist>
+    <artist>Wiz Khalifa</artist>
+    <artist>Editors</artist>
+    <artist>Florence + the Machine</artist>
+    <artist>Garbage</artist>
+    <artist>Justice</artist>
+    <artist>M83</artist>
+    <artist>The Mars Volta</artist>
+    <artist>The xx</artist>
+    <artist>Simple Minds</artist>
+    <artist>The Rapture</artist>
+    <artist>The Maccabees</artist>
+    <artist>Noah and the Whale</artist>
+    <artist>Metronomy</artist>
+    <artist>X</artist>
+    <artist>Birdy Nam Nam</artist>
+    <artist>雅-MIYAVI-</artist>
+    <artist>Ben Howard</artist>
+    <artist>Revolver</artist>
+    <artist>Michael Kiwanuka</artist>
+    <artist>Brodinski</artist>
+    <artist>Beat Assailant</artist>
+    <artist>Stuck in the Sound</artist>
+    <artist>Gesaffelstein</artist>
+    <artist>Brigitte</artist>
+    <artist>Shaka Ponk</artist>
+    <artist>IZIA</artist>
+    <artist>Skip The Use</artist>
+    <artist>Whitin Temptation</artist>
+    <artist>Greenshape</artist>
+    <artist>Miles Kanes</artist>
+    <headliner>blink-182</headliner>
+  </artists>
+    <venue>
+    <id>9086228</id>
+    <name>La Citadelle</name>
+    <location>
+      <city>Arras</city>
+      <country>France</country>
+      <street>Boulevard du Général De Gaulle</street>
+      <postalcode>62000</postalcode>
+      <geo:point>
+         <geo:lat>50.286314</geo:lat>
+         <geo:long>2.761384</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9086228+La+Citadelle</url>
+    <website>http://www.arras-online.com/dossier_citadelle.php</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/39039611.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/39039611.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/39039611.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/39039611.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/39039611/La+Citadelle+16360_199902080917_43133035917.jpg</image>
+  </venue>    <startDate>Fri, 29 Jun 2012 09:16:01</startDate>
+  <endDate>Sun, 01 Jul 2012 09:16:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75405624.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75405624.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75405624.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75405624.jpg</image>
+  <attendance>184</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3132371</tag>    
+  <url>http://www.last.fm/festival/3132371+Main+Square+Festival</url>
+  <website>http://www.mainsquarefestival.fr</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3242191</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <artist>Hanni El Khatib</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8816256</id>
+    <name>Nuits de Fourvière</name>
+    <location>
+      <city>Lyon</city>
+      <country>France</country>
+      <street>5, rue de l'Antiquaille</street>
+      <postalcode>69005</postalcode>
+      <geo:point>
+         <geo:lat>45.759293</geo:lat>
+         <geo:long>4.82139</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8816256+Nuits+de+Fourvi%C3%A8re</url>
+    <website>http://www.nuitsdefourviere.fr/</website>
+    <phonenumber>04 72 32 00 00</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/361085.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/361085.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/361085.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/361085.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/361085/Nuits+de+Fourvire.jpg</image>
+  </venue>    <startDate>Wed, 04 Jul 2012 21:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>24</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3242191</tag>    
+  <url>http://www.last.fm/event/3242191+Kasabian+at+Nuits+de+Fourvi%C3%A8re+on+4+July+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>alternative</tag>
+      <tag>blues</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+      <tag>garage rock</tag>
+      <tag>blues rock</tag>
+      <tag>fip</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2040360</id>
+  <title>Bažant Pohoda 2012</title>
+  <artists>
+    <artist>The Kooks</artist>
+    <artist>Kasabian</artist>
+    <artist>Lou Reed</artist>
+    <artist>Yann Tiersen</artist>
+    <artist>White Lies</artist>
+    <artist>Two Door Cinema Club</artist>
+    <artist>Bat for Lashes</artist>
+    <artist>Elbow</artist>
+    <artist>Emilíana Torrini</artist>
+    <artist>Orbital</artist>
+    <artist>Public Enemy</artist>
+    <artist>Caribou</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>The Horrors</artist>
+    <artist>Guillemots</artist>
+    <artist>Sebastian</artist>
+    <artist>Aloe Blacc</artist>
+    <artist>Warpaint</artist>
+    <artist>The Asteroids Galaxy Tour</artist>
+    <artist>The Heavy</artist>
+    <artist>I Blame Coco</artist>
+    <artist>Chew Lips</artist>
+    <artist>Gemma Hayes</artist>
+    <artist>GIVERS</artist>
+    <artist>Anna Calvi</artist>
+    <artist>Femi Kuti</artist>
+    <artist>Eskmo</artist>
+    <artist>Totally Enormous Extinct Dinosaurs</artist>
+    <artist>Lützenkirchen</artist>
+    <artist>Villagers</artist>
+    <artist>Kitty, Daisy &amp; Lewis</artist>
+    <artist>Portico Quartet</artist>
+    <artist>Dry The River</artist>
+    <artist>Emika</artist>
+    <artist>Juju</artist>
+    <artist>Movits!</artist>
+    <artist>Bomba Estéreo</artist>
+    <artist>Hypnotic Brass Ensemble</artist>
+    <artist>Naive New Beaters</artist>
+    <artist>The Victorian English Gentlemens Club</artist>
+    <artist>Screaming Females</artist>
+    <artist>Jenna G</artist>
+    <artist>DJ Die</artist>
+    <artist>King Krule</artist>
+    <artist>S.C.U.M</artist>
+    <artist>Submotion Orchestra</artist>
+    <artist>Little Roy</artist>
+    <artist>Floex</artist>
+    <artist>Amatorski</artist>
+    <artist>Tata Bojs</artist>
+    <artist>Jana Kirschner</artist>
+    <artist>Hjálmar</artist>
+    <artist>Fixers</artist>
+    <artist>Puding Pani Elvisovej</artist>
+    <artist>Les Trucs</artist>
+    <artist>Stealing Sheep</artist>
+    <artist>Bonus</artist>
+    <artist>Talkshow</artist>
+    <artist>Longital</artist>
+    <artist>Rido</artist>
+    <artist>Owiny Sigoma Band</artist>
+    <artist>Slobodná Európa</artist>
+    <artist>The Plastic People of the Universe</artist>
+    <artist>Blue Motion</artist>
+    <artist>Orquesta Típica Fernández Fierro</artist>
+    <artist>Banda</artist>
+    <artist>The Ills</artist>
+    <artist>Čad</artist>
+    <artist>Fever Fever</artist>
+    <artist>Zapaska</artist>
+    <artist>Susanne Blech</artist>
+    <artist>Fiordmoss</artist>
+    <artist>Michael Kocáb</artist>
+    <artist>Čoko Voko</artist>
+    <artist>Karpatské chrbáty</artist>
+    <artist>Jelly Belly</artist>
+    <artist>Sofrito</artist>
+    <artist>Hrana</artist>
+    <artist>afterPhurikane</artist>
+    <artist>The Alaev Family</artist>
+    <artist>Iva Bittová &amp; Čikori</artist>
+    <artist>Teória odrazu</artist>
+    <artist>Hugo Čáves Orchestra</artist>
+    <artist>The Maggie's Marshmallows</artist>
+    <artist>Panáčik</artist>
+    <artist>jamaican legends</artist>
+    <artist>DJ Matwä</artist>
+    <artist>Batatimba</artist>
+    <artist>Paul McCartney's Liverpool Oratorio &amp; Lúčnica</artist>
+    <artist>mangrove steelband</artist>
+    <headliner>The Kooks</headliner>
+  </artists>
+    <venue>
+    <id>8782269</id>
+    <name>Letisko</name>
+    <location>
+      <city>Trenčín</city>
+      <country>Slovakia</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>48.86198</geo:lat>
+         <geo:long>18.00931</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8782269+Letisko</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/12783043.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/12783043.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/12783043.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/12783043.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/12783043/Letisko+_.jpg</image>
+  </venue>    <startDate>Thu, 05 Jul 2012 10:11:01</startDate>
+  <endDate>Sat, 07 Jul 2012 10:11:01</endDate>
+  <description><![CDATA[<div class="bbcode">16. ročník festivalu Bažant Pohoda!<br /><br />PERMANENTKY: <br /><strong><del>59€  prvých 3.000 ks alebo do 15. 12. 2011</del>    !SOLD OUT!<br /><del>69€  ďalších 5.000 ks alebo do 15. 2. 2012</del>        !SOLD OUT!<br />85€  po vypredaní 8.000 ks alebo od 16. 2. 2012<br />99€  na mieste<br />44€  ZŤP/ZŤP-S<br />69€  dvojlístok ZŤP-S + sprievodca</strong><br /><br />Predaj jednodňových lístkov bol zrušený!<br />Lístky kupuj cez TICKETPORTAL alebo POHODA SHOP!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/76876982.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/76876982.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/76876982.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/76876982.png</image>
+  <attendance>1039</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2040360</tag>    
+  <url>http://www.last.fm/festival/2040360+Ba%C5%BEant+Pohoda+2012</url>
+  <website>http://www.pohodafestival.sk/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2063504</id>
+  <title>T in the Park 2012</title>
+  <artists>
+    <artist>Snow Patrol</artist>
+    <artist>Keane</artist>
+    <artist>Kasabian</artist>
+    <artist>Kaiser Chiefs</artist>
+    <artist>David Guetta</artist>
+    <artist>Florence + the Machine</artist>
+    <artist>New Order</artist>
+    <artist>James Morrison</artist>
+    <artist>Nicki Minaj</artist>
+    <artist>The Stone Roses</artist>
+    <artist>Two Door Cinema Club</artist>
+    <artist>Calvin Harris</artist>
+    <artist>The Subways</artist>
+    <artist>Elbow</artist>
+    <artist>Simple Minds</artist>
+    <artist>Amy Macdonald</artist>
+    <artist>Simian Mobile Disco</artist>
+    <artist>Jessie J</artist>
+    <artist>The Temper Trap</artist>
+    <artist>Orbital</artist>
+    <artist>The Maccabees</artist>
+    <artist>Feeder</artist>
+    <artist>The Darkness</artist>
+    <artist>Miike Snow</artist>
+    <artist>Skrillex</artist>
+    <artist>Bombay Bicycle Club</artist>
+    <artist>Tinie Tempah</artist>
+    <artist>Mastodon</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Swedish House Mafia</artist>
+    <artist>Enter Shikari</artist>
+    <artist>The Horrors</artist>
+    <artist>Blood Red Shoes</artist>
+    <artist>McFly</artist>
+    <artist>Christina Perri</artist>
+    <artist>fun.</artist>
+    <artist>Example</artist>
+    <artist>Band of Skulls</artist>
+    <artist>The Enemy</artist>
+    <artist>The Vaccines</artist>
+    <artist>The Courteeners</artist>
+    <artist>Paul Kalkbrenner</artist>
+    <artist>The Wanted</artist>
+    <artist>The Brian Jonestown Massacre</artist>
+    <artist>Happy Mondays</artist>
+    <artist>Olly Murs</artist>
+    <artist>Crookers</artist>
+    <artist>Professor Green</artist>
+    <artist>Major Lazer</artist>
+    <artist>Frank Turner</artist>
+    <artist>Benga</artist>
+    <artist>Peter Doherty</artist>
+    <artist>The Wailers</artist>
+    <artist>Reverend and the Makers</artist>
+    <artist>Miles Kane</artist>
+    <artist>Cher Lloyd</artist>
+    <artist>Labrinth</artist>
+    <artist>Shed Seven</artist>
+    <artist>Childish Gambino</artist>
+    <artist>Here We Go Magic</artist>
+    <artist>Devlin</artist>
+    <artist>Sven Väth</artist>
+    <artist>Fake Blood</artist>
+    <artist>Noel Gallagher's High Flying Birds</artist>
+    <artist>Ben Howard</artist>
+    <artist>Emeli Sandé</artist>
+    <artist>Benjamin Francis Leftwich</artist>
+    <artist>Hilltop Hoods</artist>
+    <artist>Dawes</artist>
+    <artist>Slam</artist>
+    <artist>Twin Atlantic</artist>
+    <artist>Dubfire</artist>
+    <artist>The Jezabels</artist>
+    <artist>Joris Voorn</artist>
+    <artist>Rizzle Kicks</artist>
+    <artist>DJ Yoda</artist>
+    <artist>Django Django</artist>
+    <artist>Alabama Shakes</artist>
+    <artist>Pulled Apart By Horses</artist>
+    <artist>Pan-Pot</artist>
+    <artist>Jack Beats</artist>
+    <artist>King Charles</artist>
+    <artist>Len Faki</artist>
+    <artist>Howler</artist>
+    <artist>Maverick Sabre</artist>
+    <artist>The Parlotones</artist>
+    <artist>Erol Alkan</artist>
+    <artist>Mull Historical Society</artist>
+    <artist>We Are Augustines</artist>
+    <artist>Clouds</artist>
+    <artist>Tribes</artist>
+    <artist>Bellowhead</artist>
+    <artist>Maya Jane Coles</artist>
+    <artist>Dog Is Dead</artist>
+    <artist>Little Roy</artist>
+    <artist>Dappy</artist>
+    <artist>Cover Drive</artist>
+    <artist>Stooshe</artist>
+    <artist>Zulu Winter</artist>
+    <artist>Gary Beck</artist>
+    <artist>The Minutes</artist>
+    <artist>The Milk</artist>
+    <artist>Hans Bouffmyhre</artist>
+    <artist>Ren Harvieu</artist>
+    <artist>Lonsdale Boys Club</artist>
+    <artist>Lawson</artist>
+    <artist>Subdrop</artist>
+    <headliner>Snow Patrol</headliner>
+  </artists>
+    <venue>
+    <id>8781944</id>
+    <name>Balado</name>
+    <location>
+      <city>Kinross</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>56.2</geo:lat>
+         <geo:long>-3.4166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8781944+Balado</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/24603017.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/24603017.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/24603017.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/24603017.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/24603017/Balado+T_in_The_Park_2002.jpg</image>
+  </venue>    <startDate>Fri, 06 Jul 2012 07:48:01</startDate>
+  <endDate>Sun, 08 Jul 2012 07:48:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/77083728.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/77083728.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/77083728.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/77083728.jpg</image>
+  <attendance>234</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2063504</tag>    
+  <url>http://www.last.fm/festival/2063504+T+in+the+Park+2012</url>
+  <website>http://www.tinthepark.com</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3229054</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>9106048</id>
+    <name>Mallorca Rocks Hotel</name>
+    <location>
+      <city>Palma de Mallorca</city>
+      <country>Spain</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat></geo:lat>
+         <geo:long></geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9106048+Mallorca+Rocks+Hotel</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Tue, 10 Jul 2012 12:41:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>6</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3229054</tag>    
+  <url>http://www.last.fm/event/3229054+Kasabian+at+Mallorca+Rocks+Hotel+on+10+July+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3189163</id>
+  <title>Kasabian - Ferrara Sotto Le Stelle</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8810517</id>
+    <name>Piazza Castello</name>
+    <location>
+      <city>Ferrara</city>
+      <country>Italy</country>
+      <street></street>
+      <postalcode>44100</postalcode>
+      <geo:point>
+         <geo:lat>44.832304</geo:lat>
+         <geo:long>11.632088</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8810517+Piazza+Castello</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/558489.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/558489.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/558489.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/558489.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/558489/Piazza+Castello.jpg</image>
+  </venue>    <startDate>Sat, 14 Jul 2012 18:10:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>64</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3189163</tag>    
+  <url>http://www.last.fm/event/3189163+Kasabian+-+Ferrara+Sotto+Le+Stelle</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>british</tag>
+      <tag>rock</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3189432</id>
+  <title>Lucca Summer Festival 2012</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8811552</id>
+    <name>Piazza Napoleone</name>
+    <location>
+      <city>Lucca</city>
+      <country>Italy</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>43.841352</geo:lat>
+         <geo:long>10.502573</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8811552+Piazza+Napoleone</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/26805999.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/26805999.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/26805999.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/26805999.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/26805999/Piazza+Napoleone.jpg</image>
+  </venue>    <startDate>Sun, 15 Jul 2012 23:06:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>22</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3189432</tag>    
+  <url>http://www.last.fm/event/3189432+Lucca+Summer+Festival+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3240991</id>
+  <title>Rock in Roma</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8794229</id>
+    <name>Ippodromo delle Capannelle</name>
+    <location>
+      <city>Roma</city>
+      <country>Italy</country>
+      <street>via Appia Nuova</street>
+      <postalcode>00185</postalcode>
+      <geo:point>
+         <geo:lat>41.875176</geo:lat>
+         <geo:long>12.522308</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8794229+Ippodromo+delle+Capannelle</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/8279851.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/8279851.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/8279851.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/8279851.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/8279851/Ippodromo+delle+Capannelle+Immagine1.jpg</image>
+  </venue>    <startDate>Wed, 18 Jul 2012 21:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>8</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3240991</tag>    
+  <url>http://www.last.fm/event/3240991+Rock+in+Roma</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>british</tag>
+      <tag>rock</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3189430</id>
+  <title>Rock in Roma 2012</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8794229</id>
+    <name>Ippodromo delle Capannelle</name>
+    <location>
+      <city>Roma</city>
+      <country>Italy</country>
+      <street>via Appia Nuova</street>
+      <postalcode>00185</postalcode>
+      <geo:point>
+         <geo:lat>41.875176</geo:lat>
+         <geo:long>12.522308</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8794229+Ippodromo+delle+Capannelle</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/8279851.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/8279851.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/8279851.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/8279851.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/8279851/Ippodromo+delle+Capannelle+Immagine1.jpg</image>
+  </venue>    <startDate>Wed, 18 Jul 2012 23:04:01</startDate>
+  <description><![CDATA[<div class="bbcode"><a href="http://www.last.fm/music/Kasabian" class="bbcode_artist">Kasabian</a><a title="Kasabian - Velociraptor" href="http://www.last.fm/music/Kasabian/Velociraptor" class="bbcode_album">Velociraptor</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>54</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3189430</tag>    
+  <url>http://www.last.fm/event/3189430+Rock+in+Roma+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3188965</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>9035841</id>
+    <name>Arena Civica - Milano Jazzin' Festival</name>
+    <location>
+      <city>Milano</city>
+      <country>Italy</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>45.475289</geo:lat>
+         <geo:long>9.178257</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9035841+Arena+Civica+-+Milano+Jazzin%27+Festival</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Thu, 19 Jul 2012 21:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>41</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3188965</tag>    
+  <url>http://www.last.fm/event/3188965+Kasabian+at+Arena+Civica+-+Milano+Jazzin%27+Festival+on+19+July+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3188994</id>
+  <title>No Borders Music Festival</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8939257</id>
+    <name>piazza Unità</name>
+    <location>
+      <city>Tarvisio</city>
+      <country>Italy</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>46.505339</geo:lat>
+         <geo:long>13.57795</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8939257+piazza+Unit%C3%A0</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Fri, 20 Jul 2012 15:16:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>20</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3188994</tag>    
+  <url>http://www.last.fm/event/3188994+No+Borders+Music+Festival</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>british</tag>
+      <tag>rock</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3131217</id>
+  <title>Tuborg GreenFest</title>
+  <artists>
+    <artist>Red Hot Chili Peppers</artist>
+    <artist>Kasabian</artist>
+    <artist>The Vaccines</artist>
+    <headliner>Red Hot Chili Peppers</headliner>
+  </artists>
+    <venue>
+    <id>8822035</id>
+    <name>НСК &quot;Олімпійський&quot;</name>
+    <location>
+      <city></city>
+      <country>Ukraine</country>
+      <street>ул. Велика Васильківська, 55</street>
+      <postalcode>03150</postalcode>
+      <geo:point>
+         <geo:lat>50.4333333</geo:lat>
+         <geo:long>30.5166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8822035+%D0%9D%D0%A1%D0%9A+%22%D0%9E%D0%BB%D1%96%D0%BC%D0%BF%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%22</url>
+    <website>http://www.nsc-olimpiyskiy.com.ua/en</website>
+    <phonenumber>0 800 50 57 50</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/73615874.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/73615874.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/73615874.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/73615874.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/73615874/stadiumarcadium.jpg</image>
+  </venue>    <startDate>Wed, 25 Jul 2012 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode"><strong>Купить билеты на КАРАБАС:</strong><br /><a href="http://karabas.com/ru/kiev/--order/informer/5/p/6202/25682223.html" rel="nofollow">http://karabas.com/ru/kiev/--order/informer/5/p/6202/25682223.html</a><br /><br />Концерт <a href="http://www.last.fm/music/Red+Hot+Chili+Peppers" class="bbcode_artist">Red Hot Chili Peppers</a> в Киеве, тур 2012<br /><br />ТУР RHCP: <a href="http://redhotchilipeppers.com/tour" rel="nofollow">http://redhotchilipeppers.com/tour</a><br /><br />Встреча Вконтакте: <a href="http://vkontakte.ru/event32604188" rel="nofollow">http://vkontakte.ru/event32604188</a><br /><br />Билеты в продаже с 5 декабря!<br /><br />Предварительная инфо по ценам: фан-зона 800 и 600 грн.<br /><br />Мечты миллионов фанатов главного рок-группы современности осуществятся 25 июля 2012 на НСК «Олимпийский»!<br /><br />Первое выступление легендарных «Перцев» в Украине состоится на реконструированном стадионе мирового класса НСК «Олимпийский» в рамках ежегодного музыкального фестиваля «Tuborg GreenFest». Долгожданные Red Hot Chili Peppers приедут в Украину с новым альбомом &quot;I'm with You&quot;, а их феерический концерт на главной спортивной арене страны обещает стать самым масштабным шоу в истории Украины.<br /><br />Red Hot Chili Peppers в течение 20 лет были хедлайнерами крупнейших музыкальных фестивалей мира и являются одной из лучших групп современности.<br /><br />Red Hot Chili Peppers - это 7 Грэмми (5 из которых были получены на одной церемонии), 85 миллионов проданных пластинок по всему миру, почетное место в «30-ке лучших рок-музыкантов мира» по версии VH1, бесчисленное количество ежегодных премий и вершин чартов.<br /><br />Red Hot Chili Peppers возвращаются с десятым юбилейным альбомом &quot;I'm with You&quot;, который доказывает, что годы молчания были лишь паузой перед очередным триумфом.<br /><br />Фестиваль Tuborg GreenFest - это известный проект, который с 2005-го ежегодно представляет только лучших музыкантов. Такие звезды современности как Metallica, Linkin Park, The Rasmus, Jamiroquai, Fatboy Slim, PINK, 30 Seconds to Mars и другие выступали на сцене фестиваля за последние 6 лет в разных странах.<br /><br /><strong>Купить билеты на КАРАБАС:</strong><br /><a href="http://karabas.com/ru/kiev/--order/informer/5/p/6202/25682223.html" rel="nofollow">http://karabas.com/ru/kiev/--order/informer/5/p/6202/25682223.html</a><br /><br />ИНТЕРЕСНО:<br />- Украинский фан-клуб представил велкам-видео для RHCP: <a href="http://rok.kiev.ua/kalifornijskaya-percovaya-zhara-v-kieve/7457/" rel="nofollow">http://rok.kiev.ua/kalifornijskaya-percovaya-zhara-v-kieve/7457/</a><br />- Red Hot Chili Peppers Cover Show в клубе 44 02/02/2012:  <a href="http://rok.kiev.ua/red-hot-chili-peppers-cover-show-v-klube-44/7603/" rel="nofollow">http://rok.kiev.ua/red-hot-chili-peppers-cover-show-v-klube-44/7603/</a><br />Tribute вечеринка Red Hot Chili Peppers в Киеве 31 марта 2012: <br /><a href="http://rok.kiev.ua/tribute-vecherinku-red-hot-chili-peppers-v-kieve/8300/" rel="nofollow">http://rok.kiev.ua/tribute-vecherinku-red-hot-chili-peppers-v-kieve/8300/</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/76262116.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/76262116.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/76262116.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/76262116.jpg</image>
+  <attendance>1118</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3131217</tag>    
+  <url>http://www.last.fm/festival/3131217+Tuborg+GreenFest</url>
+  <website>http://www.lastfm.ru/event/3131217</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>alternative</tag>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3133868</id>
+  <title>Low Cost Festival</title>
+  <artists>
+    <artist>We Are Standard</artist>
+    <artist>Placebo</artist>
+    <artist>Kasabian</artist>
+    <artist>Suede</artist>
+    <artist>The Sounds</artist>
+    <artist>The Whip</artist>
+    <artist>Is Tropical</artist>
+    <artist>La Casa Azul</artist>
+    <artist>La Habitación Roja</artist>
+    <artist>Kakkmaddafakka</artist>
+    <artist>Vetusta Morla</artist>
+    <artist>Make the Girl Dance</artist>
+    <artist>Iván Ferreiro</artist>
+    <artist>Le Corps Mince de Françoise</artist>
+    <artist>Triángulo De Amor Bizarro</artist>
+    <artist>El Columpio Asesino</artist>
+    <artist>Second</artist>
+    <artist>The New Raemon</artist>
+    <artist>Anni B Sweet</artist>
+    <artist>Supersubmarina</artist>
+    <artist>Citizens!</artist>
+    <artist>Bigott</artist>
+    <artist>mcenroe</artist>
+    <artist>The Zombie Kids</artist>
+    <artist>fuel fandango</artist>
+    <artist>Varry Brava</artist>
+    <artist>Jero Romero</artist>
+    <artist>Dj CoCo</artist>
+    <artist>The Right Ones</artist>
+    <headliner>We Are Standard</headliner>
+  </artists>
+    <venue>
+    <id>9163428</id>
+    <name>Ciudad Deportiva Guillermo Amor</name>
+    <location>
+      <city>Benidorm</city>
+      <country>Spain</country>
+      <street>Avenida de la ciudad deportiva</street>
+      <postalcode>03502</postalcode>
+      <geo:point>
+         <geo:lat></geo:lat>
+         <geo:long></geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9163428+Ciudad+Deportiva+Guillermo+Amor</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Fri, 27 Jul 2012 13:45:01</startDate>
+  <endDate>Sun, 29 Jul 2012 13:45:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75839048.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75839048.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75839048.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75839048.jpg</image>
+  <attendance>147</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3133868</tag>    
+  <url>http://www.last.fm/festival/3133868+Low+Cost+Festival</url>
+  <website>http://www.lowcostfestival.es/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>spanish</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3127361</id>
+  <title>Impact Festival 2012</title>
+  <artists>
+    <artist>Red Hot Chili Peppers</artist>
+    <artist>Kasabian</artist>
+    <artist>The Charlatans</artist>
+    <artist>The Vaccines</artist>
+    <artist>Public Image Ltd.</artist>
+    <artist>I Blame Coco</artist>
+    <artist>Marlon Roudette</artist>
+    <artist>Power of Trinity</artist>
+    <headliner>Red Hot Chili Peppers</headliner>
+  </artists>
+    <venue>
+    <id>9014288</id>
+    <name>Lotnisko Bemowo</name>
+    <location>
+      <city>Warszawa</city>
+      <country>Poland</country>
+      <street>ul. Powstańców Śląskich 125</street>
+      <postalcode>01-466</postalcode>
+      <geo:point>
+         <geo:lat>52.243869</geo:lat>
+         <geo:long>20.912348</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9014288+Lotnisko+Bemowo</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/33400737.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/33400737.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/33400737.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/33400737.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/33400737/Lotnisko+Bemowo+250pxLotniskobemowo.jpg</image>
+  </venue>    <startDate>Fri, 27 Jul 2012 14:30:01</startDate>
+  <description><![CDATA[<div class="bbcode"><strong>OFICJALNE INFO</strong> <a href="http://www.impactfest.pl/" rel="nofollow">http://www.impactfest.pl/</a><br /><br />Live Nation Polska gościło dotychczas na Lotnisku Bemowo w Warszawie najpopularniejsze gwiazdy światowej sceny muzycznej!<br />Madonna, AC/DC i dwie edycje Sonisphere Festival - to już za nami!<br />W wakacje przyszłego roku na Lotnisku Bemowo po raz kolejny zagrają najwięksi artyści.<br />Tym razem w ramach IMPACT FESTIVAL!<br /> <br />Live Nation Polska - pomysłodawca  i organizator IMPACT FESTIVAL - zaprasza na warszawskie Lotnisko Bemowo 27 lipca 2012 roku.<br />Dzięki headlinerowi pierwszej edycji IMPACT FESTIVAL impreza wkroczy na polski rynek muzyczny z wielkim hukiem!! Sceną Impact Festival zawładnie elektryzujący, zaskakujący  i uwielbiany przez polską publiczność Red Hot Chili Peppers.<br /> <br />Sprzedaż biletów rusza 10 grudnia (sobota) o 10.00.<br /> <br />Bilety na Impact Festival 2012:<br />Ceny: <br />Golden Circle Early Entrance - 363 pln<br />Golden Circle - 308 pln<br />trybuny – 308 pln<br />płyta - 209 zł -  te na pewno NIE zostaną wyprzedane do lipca!!!!<br />osoby niepełnosprawne - 209 pln<br />VIP - 748 pln. Szczegóły oferty VIP dostępne wkrótce na LiveNation.pl.<br /><br />Fanowska strona eventu na portalu Facebook: <a href="https://www.facebook.com/event.php?eid=104878379628605" rel="nofollow">https://www.facebook.com/event.php?eid=104878379628605</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75975934.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75975934.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75975934.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75975934.jpg</image>
+  <attendance>3898</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3127361</tag>    
+  <url>http://www.last.fm/festival/3127361+Impact+Festival+2012</url>
+  <website>http://www.livenation.pl/event/270476/red-hot-chili-peppers-tickets</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>british</tag>
+      <tag>indie</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3140907</id>
+  <title>Festival EDP Paredes de Coura 2012</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <artist>of Montreal</artist>
+    <artist>The Whitest Boy Alive</artist>
+    <artist>Midlake</artist>
+    <artist>dEUS</artist>
+    <artist>Gang Gang Dance</artist>
+    <artist>Stephen Malkmus and the Jicks</artist>
+    <artist>Anna Calvi</artist>
+    <artist>iLiKETRAINS</artist>
+    <artist>Friends</artist>
+    <artist>Dry The River</artist>
+    <artist>Ornatos Violeta</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>8791755</id>
+    <name>Praia do Tabuão</name>
+    <location>
+      <city>Paredes de Coura</city>
+      <country>Portugal</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>41.9</geo:lat>
+         <geo:long>-8.5666667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8791755+Praia+do+Tabu%C3%A3o</url>
+    <website>http://www.paredesdecoura.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/97475.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/97475.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/97475.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/97475.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/97475/Praia+do+Tabuo.jpg</image>
+  </venue>    <startDate>Mon, 13 Aug 2012 00:30:01</startDate>
+  <endDate>Fri, 17 Aug 2012 00:30:01</endDate>
+  <description><![CDATA[<div class="bbcode"><strong>Preços</strong>: 80€ p/ 5 dias<br /><br /><strong>13 agosto</strong>:<br />(TBA)<br /><br /><strong>14 agosto</strong>:<br />• Stephen Malkmus &amp; The Jicks<br />• Friends<br />• iLiKETRAINS<br /><br /><strong>15 agosto</strong>:<br />• dEUS<br />• Midlake<br />• Dry The River<br /><br /><strong>16 agosto</strong>:<br />• Kasabian<br />• Anna Calvi<br />• Of Montreal<br />• Gang Gang Dance<br />• The Whitest Boy Alive<br /><br /><strong>17 agosto</strong>:<br />• Ornatos Violeta</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/72162220.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/72162220.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/72162220.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/72162220.jpg</image>
+  <attendance>437</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3140907</tag>    
+  <url>http://www.last.fm/festival/3140907+Festival+EDP+Paredes+de+Coura+2012</url>
+  <website>http://www.paredesdecoura.com/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2020739</id>
+  <title>A Campingflight to Lowlands Paradise 2012</title>
+  <artists>
+    <artist>Foo Fighters</artist>
+    <artist>Bloc Party</artist>
+    <artist>Kasabian</artist>
+    <artist>Feist</artist>
+    <artist>The Black Keys</artist>
+    <artist>The xx</artist>
+    <artist>Miike Snow</artist>
+    <artist>Skrillex</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>Enter Shikari</artist>
+    <artist>Me First And The Gimme Gimmes</artist>
+    <artist>Refused</artist>
+    <artist>Alborosie</artist>
+    <artist>Ane Brun</artist>
+    <artist>Ed Sheeran</artist>
+    <artist>tUnE-yArDs</artist>
+    <artist>James Vincent McMorrow</artist>
+    <artist>Ben Howard</artist>
+    <artist>Spinvis</artist>
+    <artist>Âme</artist>
+    <artist>Django Django</artist>
+    <artist>La Pegatina</artist>
+    <artist>Movits!</artist>
+    <artist>Holy Other</artist>
+    <artist>Howler</artist>
+    <artist>Triggerfinger</artist>
+    <artist>Mark Lanegan Band</artist>
+    <artist>Blaudzun</artist>
+    <artist>Henrik Schwarz</artist>
+    <artist>Letlive</artist>
+    <artist>Dope D.O.D.</artist>
+    <artist>The Kyteman Orchestra</artist>
+    <artist>Willy Moon</artist>
+    <artist>Benji B</artist>
+    <artist>Dixon</artist>
+    <artist>Les Ramoneurs de Menhirs</artist>
+    <artist>Smod</artist>
+    <artist>Kees van Hondt</artist>
+    <artist>KREMA KAWA</artist>
+    <artist>De Avonduren</artist>
+    <headliner>Foo Fighters</headliner>
+  </artists>
+    <venue>
+    <id>8795559</id>
+    <name>Evenemententerrein Walibi World</name>
+    <location>
+      <city>Biddinghuizen</city>
+      <country>Netherlands</country>
+      <street>Spijkweg 30</street>
+      <postalcode>8256 RJ</postalcode>
+      <geo:point>
+         <geo:lat>52.438945</geo:lat>
+         <geo:long>5.771056</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8795559+Evenemententerrein+Walibi+World</url>
+    <website>http://www.walibiworld.nl</website>
+    <phonenumber>0321-32-9999</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/34256537.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/34256537.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/34256537.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/34256537.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/34256537/Evenemententerrein+Walibi+World+ST_KP4FLHSLOWLANDS_841500b.jpg</image>
+  </venue>    <startDate>Fri, 17 Aug 2012 19:36:01</startDate>
+  <endDate>Sun, 19 Aug 2012 19:36:01</endDate>
+  <description><![CDATA[<div class="bbcode">A Campingflight to Lowlands Paradise, also known as simply Lowlands, is a music festival, held annually in the Netherlands in August. Lowlands is, together with Pinkpop, one of the biggest and most popular music festivals in the country, with about 55,000 visitors, over 200 acts and more than ten stages every year which are named according to the NATO phonetic alphabet, apart from the Grolsch stage, named after the beer brewer Grolsch, who has been the main sponsor of the festival for the last few years. The majority of stages are inside huge tents - insurance against the Dutch climate - with the main stage’s tent, Alpha, being approximately the size of a premiership football team’s pitch.<br /><br />The festival is held in Biddinghuizen, at Spijk en Bremerberg, very close to the Walibi World amusement park.<br /><br />Besides music (alternative music, pop, rock, dance, hip hop), there is also an indoor and an outdoor cinema, stand-up comedy, street theatre and theatre.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/68104840.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/68104840.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/68104840.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/68104840.jpg</image>
+  <attendance>919</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2020739</tag>    
+  <url>http://www.last.fm/festival/2020739+A+Campingflight+to+Lowlands+Paradise+2012</url>
+  <website>http://www.lowlands.nl</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2048182</id>
+  <title>Leeds Festival 2012</title>
+  <artists>
+    <artist>Foo Fighters</artist>
+    <artist>The Cure</artist>
+    <artist>Kasabian</artist>
+    <artist>Kaiser Chiefs</artist>
+    <artist>The Shins</artist>
+    <artist>Paramore</artist>
+    <artist>Bullet For My Valentine</artist>
+    <artist>Florence + the Machine</artist>
+    <artist>Justice</artist>
+    <artist>The Black Keys</artist>
+    <artist>The Hives</artist>
+    <artist>Billy Talent</artist>
+    <artist>Crystal Castles</artist>
+    <artist>Passion Pit</artist>
+    <artist>All Time Low</artist>
+    <artist>Two Door Cinema Club</artist>
+    <artist>Angels &amp; Airwaves</artist>
+    <artist>Coheed and Cambria</artist>
+    <artist>Anti-Flag</artist>
+    <artist>The Maccabees</artist>
+    <artist>Santigold</artist>
+    <artist>Miike Snow</artist>
+    <artist>Bombay Bicycle Club</artist>
+    <artist>The Cribs</artist>
+    <artist>Mastodon</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>At the Drive-In</artist>
+    <artist>Less Than Jake</artist>
+    <artist>Chiddy Bang</artist>
+    <artist>Social Distortion</artist>
+    <artist>Mystery Jets</artist>
+    <artist>Saves The Day</artist>
+    <artist>Enter Shikari</artist>
+    <artist>The Horrors</artist>
+    <artist>Blood Red Shoes</artist>
+    <artist>Metronomy</artist>
+    <artist>You Me At Six</artist>
+    <artist>Me First And The Gimme Gimmes</artist>
+    <artist>Band of Skulls</artist>
+    <artist>Graham Coxon</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>The Vaccines</artist>
+    <artist>The Courteeners</artist>
+    <artist>Every Time I Die</artist>
+    <artist>Turbonegro</artist>
+    <artist>Katy B</artist>
+    <artist>The Joy Formidable</artist>
+    <artist>The Blackout</artist>
+    <artist>Good Riddance</artist>
+    <artist>Modestep</artist>
+    <artist>Feed Me</artist>
+    <artist>Gallows</artist>
+    <artist>SBTRKT</artist>
+    <artist>Here We Go Magic</artist>
+    <artist>Grimes</artist>
+    <artist>A Wilhelm Scream</artist>
+    <artist>Of Monsters and Men</artist>
+    <artist>Cancer Bats</artist>
+    <artist>The Flatliners</artist>
+    <artist>Ceremony</artist>
+    <artist>OFWGKTA</artist>
+    <artist>Twin Atlantic</artist>
+    <artist>Polar Bear Club</artist>
+    <artist>Azealia Banks</artist>
+    <artist>Trash Talk</artist>
+    <artist>Deaf Havana</artist>
+    <artist>Django Django</artist>
+    <artist>Dead to Me</artist>
+    <artist>Bouncing Souls</artist>
+    <artist>Friends</artist>
+    <artist>This is Hell</artist>
+    <artist>Dry The River</artist>
+    <artist>Pulled Apart By Horses</artist>
+    <artist>The Japanese Popstars</artist>
+    <artist>Touche Amore</artist>
+    <artist>Howler</artist>
+    <artist>Star Fucking Hipsters</artist>
+    <artist>Tribes</artist>
+    <artist>Mark Lanegan Band</artist>
+    <artist>Zinc</artist>
+    <artist>Spector</artist>
+    <artist>Random Hand</artist>
+    <artist>The Skints</artist>
+    <artist>Apologies, I Have None</artist>
+    <artist>Jaguar Skills</artist>
+    <artist>Clement Marfo &amp; The Frontline</artist>
+    <artist>Pure Love</artist>
+    <artist>Jagga</artist>
+    <artist>Pettybone</artist>
+    <headliner>Foo Fighters</headliner>
+  </artists>
+    <venue>
+    <id>8796129</id>
+    <name>Bramham Park</name>
+    <location>
+      <city>Leeds</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>53.872715</geo:lat>
+         <geo:long>-1.372895</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8796129+Bramham+Park</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Fri, 24 Aug 2012 10:16:01</startDate>
+  <endDate>Sun, 26 Aug 2012 10:16:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/76984928.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/76984928.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/76984928.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/76984928.jpg</image>
+  <attendance>586</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2048182</tag>    
+  <url>http://www.last.fm/festival/2048182+Leeds+Festival+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>2043239</id>
+  <title>Reading Festival 2012</title>
+  <artists>
+    <artist>Foo Fighters</artist>
+    <artist>The Cure</artist>
+    <artist>Kasabian</artist>
+    <artist>Kaiser Chiefs</artist>
+    <artist>The Shins</artist>
+    <artist>Paramore</artist>
+    <artist>Bullet For My Valentine</artist>
+    <artist>Florence + the Machine</artist>
+    <artist>Justice</artist>
+    <artist>The Black Keys</artist>
+    <artist>The Hives</artist>
+    <artist>Billy Talent</artist>
+    <artist>Crystal Castles</artist>
+    <artist>Passion Pit</artist>
+    <artist>All Time Low</artist>
+    <artist>Two Door Cinema Club</artist>
+    <artist>Angels &amp; Airwaves</artist>
+    <artist>Foster the People</artist>
+    <artist>Coheed and Cambria</artist>
+    <artist>Anti-Flag</artist>
+    <artist>The Maccabees</artist>
+    <artist>Santigold</artist>
+    <artist>Miike Snow</artist>
+    <artist>Bombay Bicycle Club</artist>
+    <artist>The Cribs</artist>
+    <artist>Mastodon</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>At the Drive-In</artist>
+    <artist>Less Than Jake</artist>
+    <artist>Chiddy Bang</artist>
+    <artist>Social Distortion</artist>
+    <artist>Mystery Jets</artist>
+    <artist>Los Campesinos!</artist>
+    <artist>Saves The Day</artist>
+    <artist>Enter Shikari</artist>
+    <artist>The Horrors</artist>
+    <artist>Blood Red Shoes</artist>
+    <artist>Metronomy</artist>
+    <artist>You Me At Six</artist>
+    <artist>Me First And The Gimme Gimmes</artist>
+    <artist>Band of Skulls</artist>
+    <artist>The Bouncing Souls</artist>
+    <artist>Graham Coxon</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>The Vaccines</artist>
+    <artist>The Courteeners</artist>
+    <artist>Every Time I Die</artist>
+    <artist>Turbonegro</artist>
+    <artist>Katy B</artist>
+    <artist>The Joy Formidable</artist>
+    <artist>The Blackout</artist>
+    <artist>Good Riddance</artist>
+    <artist>Modestep</artist>
+    <artist>Feed Me</artist>
+    <artist>Gallows</artist>
+    <artist>SBTRKT</artist>
+    <artist>Here We Go Magic</artist>
+    <artist>Grimes</artist>
+    <artist>A Wilhelm Scream</artist>
+    <artist>Of Monsters and Men</artist>
+    <artist>Cancer Bats</artist>
+    <artist>The Flatliners</artist>
+    <artist>Ceremony</artist>
+    <artist>OFWGKTA</artist>
+    <artist>Twin Atlantic</artist>
+    <artist>Polar Bear Club</artist>
+    <artist>Azealia Banks</artist>
+    <artist>Trash Talk</artist>
+    <artist>Deaf Havana</artist>
+    <artist>Django Django</artist>
+    <artist>Dead to Me</artist>
+    <artist>Friends</artist>
+    <artist>This is Hell</artist>
+    <artist>Dry The River</artist>
+    <artist>Pulled Apart By Horses</artist>
+    <artist>The Japanese Popstars</artist>
+    <artist>Touche Amore</artist>
+    <artist>Howler</artist>
+    <artist>Star Fucking Hipsters</artist>
+    <artist>Tribes</artist>
+    <artist>Mark Lanegan Band</artist>
+    <artist>Spector</artist>
+    <artist>Random Hand</artist>
+    <artist>The Skints</artist>
+    <artist>Apologies, I Have None</artist>
+    <artist>Jaguar Skills</artist>
+    <artist>Clement Marfo &amp; The Frontline</artist>
+    <artist>Pure Love</artist>
+    <artist>Jagga</artist>
+    <artist>Pettybone</artist>
+    <headliner>Foo Fighters</headliner>
+  </artists>
+    <venue>
+    <id>8781878</id>
+    <name>Little John's Farm</name>
+    <location>
+      <city>Reading</city>
+      <country>United Kingdom</country>
+      <street>Richmond Avenue</street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>51.477868</geo:lat>
+         <geo:long>-0.986683</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8781878+Little+John%27s+Farm</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/551868.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/551868.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/551868.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/551868.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/551868/Little+Johns+Farm.jpg</image>
+  </venue>    <startDate>Fri, 24 Aug 2012 19:03:01</startDate>
+  <endDate>Sun, 26 Aug 2012 19:03:01</endDate>
+  <description><![CDATA[<div class="bbcode">Reading Festival 2012 - 24-26 August 2012.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/76987186.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/76987186.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/76987186.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/76987186.jpg</image>
+  <attendance>1060</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2043239</tag>    
+  <url>http://www.last.fm/festival/2043239+Reading+Festival+2012</url>
+  <website>http://www.readingfestival.com</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3136047</id>
+  <title>Kasabian</title>
+  <artists>
+    <artist>Kasabian</artist>
+    <artist>Belakiss</artist>
+    <headliner>Kasabian</headliner>
+  </artists>
+    <venue>
+    <id>10241897</id>
+    <name>Stadium Live</name>
+    <location>
+      <city>Moscow</city>
+      <country>Russian Federation</country>
+      <street>Ленинградский проспект д.80 стр.17</street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>55.810354</geo:lat>
+         <geo:long>37.50761</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/10241897+Stadium+Live</url>
+    <website>http://www.stadium-live.ru</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/74414646.png</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/74414646.png</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/74414646.png</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/74414646.png</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/74414646/Stadium+Live+stadiumlive.png</image>
+  </venue>    <startDate>Sat, 22 Sep 2012 20:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">Заказ билетов:<br /><a href="http://www.ponominalu.ru/event/details/9717?promote=afisha" rel="nofollow">http://www.ponominalu.ru/event/details/9717?promote=afisha</a><br /><a href="http://www.kontramarka.ru/ru/tickets/kasabian-moskva-stadium-live-111536/event.html?partnerId=622" rel="nofollow">http://www.kontramarka.ru/ru/tickets/kasabian-moskva-stadium-live-111536/event.html?partnerId=622</a><br /><a href="http://mosbilet.ru/index.php?cat=245&amp;eventId=393" rel="nofollow">http://mosbilet.ru/index.php?cat=245&amp;eventId=393</a><br /><a href="http://www.concert.ru/Order.aspx?ActionID=26519" rel="nofollow">http://www.concert.ru/Order.aspx?ActionID=26519</a><br /><br /><a href="http://vkontakte.ru/kasabianinmoscowfuckyeah" rel="nofollow">http://vkontakte.ru/kasabianinmoscowfuckyeah</a><br /><a href="http://www.facebook.com/events/294888100546979/" rel="nofollow">http://www.facebook.com/events/294888100546979/</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/290843.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/290843.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/290843.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/290843.jpg</image>
+  <attendance>1487</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3136047</tag>    
+  <url>http://www.last.fm/event/3136047+Kasabian+at+Stadium+Live+on+22+September+2012</url>
+  <website>http://www.muz24.ru/news35597/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>rock</tag>
+      <tag>alternative</tag>
+      <tag>british</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3162700</id>
+  <title>Glastonbury Festival of Contemporary Performing Arts 2013</title>
+  <artists>
+    <artist>Radiohead</artist>
+    <artist>Nirvana</artist>
+    <artist>Queen</artist>
+    <artist>The Rolling Stones</artist>
+    <artist>The Beatles</artist>
+    <artist>U2</artist>
+    <artist>David Bowie</artist>
+    <artist>The Who</artist>
+    <artist>Metallica</artist>
+    <artist>Bob Dylan</artist>
+    <artist>Kasabian</artist>
+    <artist>Arcade Fire</artist>
+    <artist>Black Sabbath</artist>
+    <artist>Iron Maiden</artist>
+    <artist>Bruce Springsteen</artist>
+    <artist>Joy Division</artist>
+    <artist>New Order</artist>
+    <artist>Journey</artist>
+    <artist>Miles Davis</artist>
+    <artist>Neutral Milk Hotel</artist>
+    <artist>The Stone Roses</artist>
+    <artist>Pulp</artist>
+    <artist>Def Leppard</artist>
+    <artist>The Darkness</artist>
+    <artist>R.E.M</artist>
+    <artist>2Pac Hologram</artist>
+    <headliner>Radiohead</headliner>
+  </artists>
+    <venue>
+    <id>8783201</id>
+    <name>Worthy Farm</name>
+    <location>
+      <city>Shepton Mallet</city>
+      <country>United Kingdom</country>
+      <street>Pilton</street>
+      <postalcode>BA4 4BY</postalcode>
+      <geo:point>
+         <geo:lat>51.159843</geo:lat>
+         <geo:long>-2.585621</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783201+Worthy+Farm</url>
+    <website>http://www.glastonburyfestivals.co.uk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/277450.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/277450.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/277450.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/277450.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/277450/Worthy+Farm.jpg</image>
+  </venue>    <startDate>Wed, 26 Jun 2013 18:22:01</startDate>
+  <endDate>Sun, 30 Jun 2013 18:22:01</endDate>
+  <description><![CDATA[<div class="bbcode">Please note all added artists are considered a Strong Rumour on efestivals. Thus, some strong indication they will play. The full lineup is not released till 2013.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/317976.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/317976.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/317976.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/317976.jpg</image>
+  <attendance>108</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3162700</tag>    
+  <url>http://www.last.fm/festival/3162700+Glastonbury+Festival+of+Contemporary+Performing+Arts+2013</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>rock</tag>
+      <tag>indie</tag>
+    </tags>
+    </event></events></lfm>
