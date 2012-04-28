@@ -14,19 +14,16 @@ toplist.toplistType = models.TOPLISTTYPE.REGION;
 toplist.matchType = models.TOPLISTMATCHES.TRACKS;  //Choose tracks
 toplist.region = "GB";  // use GB region
 
-// Create a playlist to put the top 60 into
-var myAwesomePlaylist = new models.Playlist("Power Hour Playlist");
 var startTrack 
 
 // update playlist with top 60 tracks
 toplist.observe(models.EVENT.CHANGE, function() {    	
 	var i;
-	startTrack = toplist.results[1].uri;
+	startTrack = toplist.results[0].uri;
 	console.log(startTrack);
 	for (i=0;i<6;i++)  // go to 60 tracks
 	{	
-		add_li("bands", i + 1 + " :" + toplist.results[i].uri);		
-		myAwesomePlaylist.add(toplist.results[i]);  // add track to playlist
+		add_li("bands", i + 1 + " :" + toplist.results[i]);		
 	}
 	playTrack(startTrack);
 });
