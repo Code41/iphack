@@ -21,9 +21,9 @@ padding:2%;
 
 #countdown
 {
+float:left;
+margin-left:30%;
 text-align:center;
-margin-left:40%;
-margin-right:40%;
 background-color: black;
 height: 150px;
 -moz-border-radius:75px;
@@ -38,6 +38,27 @@ padding-top:1%;
   font-size:100px;
   color:orange;
 }
+
+#countdownsec
+{
+margin-right:30%;
+float:right;
+text-align:center;
+background-color: black;
+height: 150px;
+-moz-border-radius:75px;
+-webkit-border-radius: 75px;
+width: 150px;
+padding-top:1%;
+}
+
+#countnumsec
+{
+  padding-top:40%;  
+  font-size:100px;
+  color:orange;
+}
+
 
 #nowplaying
 {
@@ -73,3 +94,9 @@ li
 {
 margin:1%;
 }
+
+.wipe
+{
+  clear:both;
+}
+
