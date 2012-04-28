@@ -22,7 +22,7 @@ toplist.observe(models.EVENT.CHANGE, function() {
 	var i;
 	for (i=0;i<6;i++)  // go to 60 tracks
 	{	
-		add_li("bands", i + 1 + ":\t" + toplist.results[i]);		
+		add_li("bands", i + 1 + ": " + toplist.results[i]);		
 		myAwesomePlaylist.add(toplist.results[i]);  // add track to playlist
 	}
 });
