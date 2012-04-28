@@ -96,7 +96,7 @@ function getTopTrackNUri(n) // get the n'th top track
 	var track = new models.Track();
 	track = allTracks[n].uri;
 
-	console.log("Debug: Track[" + n + "]=" + track);
+	track += "#00:10";
 	
 	return track;
 }
