@@ -5,16 +5,19 @@
     <title>My First App</title>
     <link rel="stylesheet" href="sp://import/css/adam.css">
     <link rel="stylesheet" href="samplr.css">
-    </head>
+</head>
 <body onload="sp = getSpotifyApi(1); samplr = sp.require('samplr'); samplr.init();">
   <div id="title">
     <h1 id="header">Samplr</h1>
   </div>
   <div id="content">
-    <div id="bandlist">
+	<div id="countdown"><p id="countnum">60<p></div>	
+	<div id="nowplaying">Hello by Chode</div>
+	<div id="split"></div>
+    <div id="bandlist">	  
       <ul id="bands">
       </ul>
     </div>
   </div>
-</body>
+  <form>
 </html>
