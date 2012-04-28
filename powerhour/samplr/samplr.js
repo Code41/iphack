@@ -4,6 +4,7 @@ var views = sp.require("sp://import/scripts/api/views");
 var player = models.player;
 exports.init = init;
 var allTracks = new Array();
+//var currentnumsec;
 
 
 function init() {
@@ -15,7 +16,6 @@ toplist.region = "GB";  // use GB region
 
 var countnum = document.getElementById('countnum');
 var countnumsec = document.getElementById('countnumsec');
-//var currentnumsec;
 var nowplaying = document.getElementById('nowplaying');
 var currentTrackUri;
 var currentTrack;
@@ -86,7 +86,19 @@ function doNextPlay(n, max)
 		update_nowplaying(allTracks[n]);
 		//update track number in html
 		update_minute(n + 1);
+		var secs=10;		
 		var t=setTimeout(function() { doNextPlay(n,max) },10000); // get and play next track in 60s		
+		var s=setTimeout(function() { decrementSeconds(secs) },1000); // get and play next track in 60s
+	}
+}
+
+function decrementSeconds(secs)
+{
+	if(secs > 0)
+	{
+	    secs--;
+		countnumsec.innerHTML = secs;
+		var s=setTimeout(function() { decrementSeconds(secs) },1000); // get and play next track in 60s		
 	}
 }
 
