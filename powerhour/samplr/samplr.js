@@ -1,11 +1,8 @@
 var sp = getSpotifyApi(1);
 var models = sp.require('sp://import/scripts/api/models');
 var views = sp.require("sp://import/scripts/api/views");
-
 var player = models.player;
-
 exports.init = init;
-var toplist = new models.Toplist();
 var allTracks = new Array();
 
 function init() {
@@ -15,8 +12,6 @@ toplist.toplistType = models.TOPLISTTYPE.REGION;
 toplist.matchType = models.TOPLISTMATCHES.TRACKS;  //Choose tracks
 toplist.region = "GB";  // use GB region
 
-var currentcountdown;
-currentcountdown = 60;
 var countnum = document.getElementById('countnum');
 var nowplaying = document.getElementById('nowplaying');
 var currentTrackUri;
@@ -29,24 +24,19 @@ toplist.observe(models.EVENT.CHANGE, function() {
 	currentTrackUri = toplist.results[0].uri;
 	console.log(currentTrackUri);	
     
-	for (i=0;i<10;i++)  // go to 60 tracks
+	for (i=0;i<60;i++)  // go to 60 tracks
 	{	
 		add_li("bands", i + 1 + ". " + toplist.results[i]);	
 		allTracks[i] = toplist.results[i];	
-		console.log(currentcountdown);
-		currentcountdown = currentcountdown - 1;
-		countnum.innerHTML = currentcountdown;	
-		update_nowplaying(toplist.results[i])
 	}		
 	playTrack(toplist.results[i]);	
 });
 
-
+	toplist.run();
 	console.log(toplist);
 
 	var n = 60;
 	doNextPlay(n,n);	//play next in T sec
-
 }
 
 function update_nowplaying(song) {
@@ -78,15 +68,9 @@ function doNextPlay(n, max)
 	console.log("N decremented:" + n);
 	
 	if (n > 0) //if n==0, then skip and exit
-	{
-											//playTrack(getTopTrackNUri(max - n)); //call with param (max - n) i.e. first time (x-x)=0 ==top track; 2nd time (x- (x-1)) =1 == second top track
-											//var t=setTimeout("doNextPlay(n, max)",60000);	
-											//doNextPlay(n,max);
-		
-		playTrack(getTopTrackNUri(n));	//start playing track
-		
-		var t=setTimeout(function() { doNextPlay(n,max) },5000); // get and play next track in 60s	
-		
+	{		
+		playTrack(getTopTrackNUri(n));	//start playing track		
+		var t=setTimeout(function() { doNextPlay(n,max) },5000); // get and play next track in 60s			
 	}
 }
 
