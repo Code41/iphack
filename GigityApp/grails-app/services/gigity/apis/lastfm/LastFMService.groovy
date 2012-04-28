@@ -96,6 +96,14 @@ class LastFMService {
 
     }
 
+    //Gets the events for a place. Returns empty list if cannot be found.
+    def getEventsForLatLong(String lat, String lon){
+        String url = "http://ws.audioscrobbler.com/2.0/?method=geo.getevents&long=${lon}&lat=${lat}&api_key=9f37555b8a6281942d742327fba9075e"
+
+        return parseEvents(url)
+
+    }
+
 
     def parseEvents(String url){
 

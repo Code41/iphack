@@ -25,9 +25,9 @@ class GigsController {
 
 
                 if (locationContent.size() > 0){
-                     log.info("Found location results")
-                     render(view: "place", model: [place:artist, content: locationContent,tweets: tweets])
-                     return
+                    log.info("Found location results")
+                    render(view: "place", model: [place:artist, content: locationContent,tweets: tweets])
+                    return
                 }
                 else{
                     log.info("Not found location results, searching artists")
@@ -56,6 +56,25 @@ class GigsController {
         }
         else{
             render "No artist specified"
+        }
+    }
+
+    def latlong = {
+
+        try{
+            def content = lastFMService.getEventsForLatLong(params.lat, params.lon)
+
+            if(content.size() < 1){
+                    log.info("No results in area")
+                    render(view: "noResults", model: [query:"your area"])
+                }
+
+            return [content: content, lat: params.lat, lon: params.lon]
+        }
+        catch(Exception ex){
+            ex.printStackTrace()
+            log.error(ex.getMessage())
+            render "Error"
         }
     }
 
