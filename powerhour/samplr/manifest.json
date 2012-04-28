@@ -1,0 +1,12 @@
+{
+    "BundleType": "Application",
+    "AppIcon": {
+        "36x18": "samplr.png"
+    },
+    "AppName": {
+        "en": "Samplr"
+    },
+    "SupportedLanguages": [
+        "en"
+    ]
+}
