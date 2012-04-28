@@ -75,7 +75,8 @@ function doNextPlay(n, max)
 	if (n > 0) //if n==0, then skip and exit
 	{		
 		playTrack(getTopTrackNUri(n));	//start playing track		
-		var t=setTimeout(function() { doNextPlay(n,max) },2000); // get and play next track in 60s			
+		//update track number in html
+		var t=setTimeout(function() { doNextPlay(n,max) },5000); // get and play next track in 60s			
 	}
 }
 
