@@ -10,34 +10,47 @@ var allTracks = new Array();
 
 function init() {
 
-// Create a toplist of the to 60 tracks
-	
-	toplist.toplistType = models.TOPLISTTYPE.REGION;
-	toplist.matchType = models.TOPLISTMATCHES.TRACKS;  //Choose tracks
-	toplist.region = "GB";  // use GB region
-	var startTrack ;
-	
-	// update playlist with top 60 tracks
-	toplist.observe(models.EVENT.CHANGE, function() 
-	{    	
-		var i;
-		for (i=0;i<60;i++)  // go to 60 tracks
-		{	
-			add_li("bands", i + 1 + " :" + toplist.results[i]);	
-			allTracks[i] = toplist.results[i];	
-			
-		}
-		
-	});
-	toplist.run(); //execute the toplist
-	
+var toplist = new models.Toplist();
+toplist.toplistType = models.TOPLISTTYPE.REGION;
+toplist.matchType = models.TOPLISTMATCHES.TRACKS;  //Choose tracks
+toplist.region = "GB";  // use GB region
+
+var currentcountdown;
+currentcountdown = 60;
+var countnum = document.getElementById('countnum');
+var nowplaying = document.getElementById('nowplaying');
+var currentTrackUri;
+var currentTrack;
+
+// update playlist with top 60 tracks
+toplist.observe(models.EVENT.CHANGE, function() {    	
+	var i;
+	currentTrack = toplist.results[0].name;
+	currentTrackUri = toplist.results[0].uri;
+	console.log(currentTrackUri);	
+    
+	for (i=0;i<10;i++)  // go to 60 tracks
+	{	
+		add_li("bands", i + 1 + ". " + toplist.results[i]);	
+		allTracks[i] = toplist.results[i];	
+		console.log(currentcountdown);
+		currentcountdown = currentcountdown - 1;
+		countnum.innerHTML = currentcountdown;	
+		update_nowplaying(toplist.results[i])
+	}		
+	playTrack(toplist.results[i]);	
+});
+
+
 	console.log(toplist);
 
 	var n = 60;
 	doNextPlay(n,n);	//play next in T sec
 
+}
 
-
+function update_nowplaying(song) {
+nowplaying.innerHTML = song;
 }
 
 function add_li(list, text) {
