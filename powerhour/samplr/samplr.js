@@ -14,6 +14,8 @@ toplist.matchType = models.TOPLISTMATCHES.TRACKS;  //Choose tracks
 toplist.region = "GB";  // use GB region
 
 var countnum = document.getElementById('countnum');
+var countnumsec = document.getElementById('countnumsec');
+//var currentnumsec;
 var nowplaying = document.getElementById('nowplaying');
 var currentTrackUri;
 var currentTrack;
@@ -48,6 +50,10 @@ function update_nowplaying(song) {
 nowplaying.innerHTML = song;
 }
 
+function update_minute(n) {
+countnum.innerHTML = n;
+}
+
 function add_li(list, text) {
 var list = document.getElementById(list);
 var li = document.createElement("li");
@@ -57,8 +63,9 @@ list.appendChild(li);
 
 function playTrack(uri) {
      //console.log("Debug: Playing track " + uri);
+	 //currentnumsec = 60;
 	 sp.trackPlayer.playTrackFromUri(uri, {
-        onSuccess: function() { console.log("success");} ,
+		onSuccess: function() { console.log("success");},
         onFailure: function () { console.log("failure");},
         onComplete: function () { console.log("complete"); }
     });
@@ -74,9 +81,12 @@ function doNextPlay(n, max)
 	
 	if (n > 0) //if n==0, then skip and exit
 	{		
-		playTrack(getTopTrackNUri(n));	//start playing track		
+		playTrack(getTopTrackNUri(n));	//start playing track	
+		//update track name in html
+		update_nowplaying(allTracks[n]);
 		//update track number in html
-		var t=setTimeout(function() { doNextPlay(n,max) },5000); // get and play next track in 60s			
+		update_minute(n + 1);
+		var t=setTimeout(function() { doNextPlay(n,max) },10000); // get and play next track in 60s		
 	}
 }
 
@@ -86,7 +96,7 @@ function getTopTrackNUri(n) // get the n'th top track
 	var track = new models.Track();
 	track = allTracks[n].uri;
 
-	console.log("Debug: Track[" + n + "]=" + track);
+	track += "#00:10";
 	
 	return track;
 }
