@@ -1,0 +1,111 @@
+
+body {
+    background: #353535;
+    color: #ddd;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 90%;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+h1{
+    color: white;
+    font-size: 190%;
+}
+
+a, a:link, a:visited, a:active, a:hover 	{
+	color: #efefef;
+        font-weight: bold;
+	text-decoration: none;
+}
+
+#gigs h2{
+    margin-left: 1em;
+    color: white;
+}
+
+#header{
+}
+
+#map_canvas{
+    
+}
+
+#artistImg{
+    max-width: 50%;
+    float:left;
+}
+
+p{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.eventImg{
+  float:left;
+  border: none;
+}
+
+#gigsList{
+    padding-left: 1em;
+}
+
+li{
+    list-style-type: none;
+    padding-left: 1em;
+}
+
+#rightBar{
+    width:40%;
+    height:40%;
+    float:right;
+}
+
+#tweets ul{
+    margin: 0;
+    padding: 0;
+}
+
+#tweets ul li{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#tweets ul li ul{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1em;
+}
+
+
+#mainPageMainContent{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 60%;
+    text-align: center;
+}
+
+h1#mainPage{
+    font-size: 500%;
+    font-family: "Gill Sans Light", helvetica, arial, sans-script;
+}
+
+input[type=text] {
+width: 300px;
+font-size: 200%;
+background-color: #555;
+color: #fff;
+}
+
+input[type=submit] {
+font-size: 200%;
+background-color: #fff;
+
+}
+
+#nearme{
+    font-size: 80%;
+    text-align: center;
+}
