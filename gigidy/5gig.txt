@@ -1,1 +1,0 @@
-http://www.nvivo.es/api/request.php?api_key=50c0a45ffbfe219d03ce52a35aa44030&method=artist.getEvents&artist=kasabian&format=json
