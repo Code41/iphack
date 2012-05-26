@@ -79,15 +79,15 @@ function doNextPlay(n, max)
 	n--;
 	console.log("Debug: N decremented:" + n);
 	
-	if (n > 0) //if n==0, then skip and exit
+	if (n >= 0) //if n==0, then skip and exit
 	{		
 		playTrack(getTopTrackNUri(n));	//start playing track	
 		//update track name in html
 		update_nowplaying(allTracks[n]);
 		//update track number in html
 		update_minute(n + 1);
-		var secs=10;		
-		var t=setTimeout(function() { doNextPlay(n,max) },10000); // get and play next track in 60s		
+		var secs=60;		
+		var t=setTimeout(function() { doNextPlay(n,max) },60000); // get and play next track in 60s		
 		var s=setTimeout(function() { decrementSeconds(secs) },1000); // get and play next track in 60s
 	}
 }
@@ -108,7 +108,7 @@ function getTopTrackNUri(n) // get the n'th top track
 	var track = new models.Track();
 	track = allTracks[n].uri;
 
-	track += "#00:10";
+	track += "#00:20";
 	
 	return track;
 }
